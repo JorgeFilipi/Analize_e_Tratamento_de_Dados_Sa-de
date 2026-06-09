@@ -1,0 +1,1501 @@
+﻿id_paciente,nome,idade,sexo,cidade,estado,peso_kg,altura_m,imc,pressao_arterial,glicemia,colesterol,diagnostico
+1,Dra. Joana Aparecida,81,M,Cunha,SC,"37,6",1.58,15.1,13x8,95.0,293.0,Pré-diabetes
+2,Valentim Fonseca,64,Masculino,Novais do Amparo,MA,37.8,1.53,16.1,,,,Pré-diabetes
+3,Ian Cardoso,20,Feminino,da Cruz,SP,79.4,1.58,31.8,13x8,146.0,,Hipertensão
+4,Helena Rocha,5,Feminino,Barros,MT,83.2,1.48,38.0,110/70,,,Pré-diabetes
+5,Hellena Ferreira,37,M,Rodrigues,MS,124.8,1.96,32.5,110/70,,,Diabetes
+6,Ryan Jesus,87,Feminino,Cavalcanti,GO,42.5,1.81,13.0,12x8,246.0,,Saudável
+7,Dr. Vicente Siqueira,28,Feminino,Vieira,BA,69.0,1.9,19.1,120/80,118.0,,Obesidade
+8,Sra. Eloá Gomes,91,m,Oliveira,PI,57.3,1.72,19.4,,177.0,187.0,Diabetes
+9,João Vitor Vasconcelos,54,Masculino,Moraes,SP,76.9,1.54,32.4,13x8,,143.0,Hipertensão
+10,Benicio Silveira,76,M,Lima do Amparo,RO,75.4,1.79,23.5,110/70,,261.0,
+11,Ana Cecília Vasconcelos,34,Feminino,Gonçalves de Almeida,RN,70.7,1.59,28.0,13x8,176.0,,Pré-diabetes
+12,Nina Casa Grande,80,m,Pereira,RJ,123.4,1.73,41.2,13x8,,315.0,Pré-diabetes
+13,Vitória Oliveira,76,m,Mendonça de Caldeira,BA,86.3,1.47,39.9,140/90,138.0,134.0,Pré-diabetes
+14,Maria Isis Novais,8,Masculino,Sampaio,CE,115.4,1.48,52.7,110/70,200.0,,Diabetes
+15,Davi Porto,91,m,Gomes da Mata,RS,"76,9",1.84,22.7,140/90,,150.0,Diabetes
+16,Sarah Costa,75,F,Teixeira,ES,35.8,1.86,10.3,120/80,118.0,,Hipertensão
+17,Pedro Lucas da Cruz,69,F,Fonseca,RO,111.0,1.97,28.6,12x8,181.0,,Saudável
+18,Levi Marques,54,f,da Cunha Alegre,MS,84.0,1.87,24.0,,227.0,,
+19,Ana Cecília Peixoto,24,Masculino,Pacheco do Sul,PB,82.1,1.67,29.4,140/90,178.0,,Pré-diabetes
+20,Eloá das Neves,1,M,CAMARGO,PE,132.3,1.95,34.8,13x8,,243.0,Saudável
+21,Lorenzo Mendes,49,m,da Paz,PB,132.3,1.91,36.3,140/90,,159.0,Obesidade
+22,Maysa Machado,7,Feminino,Araújo,MT,67.9,1.43,33.2,110/70,188.0,134.0,Diabetes
+23,Renan Sales,51,M,Souza da Mata,BA,133.9,1.77,42.7,12x8,212.0,278.0,Saudável
+24,Sr. João Felipe Camargo,33,F,Ferreira do Amparo,SE,105.3,1.6,41.1,140/90,161.0,,Saudável
+25,Gustavo Gomes,58,Masculino,Siqueira,PE,139.8,2.05,33.3,120/80,197.0,,Diabetes
+26,Dr. Pedro Miguel Ribeiro,47,m,Fernandes do Galho,ES,51.6,1.94,13.7,,137.0,,
+27,Júlia Ribeiro,13,Feminino,Martins,RR,93.1,1.58,37.3,12x8,,,Pré-diabetes
+28,Renan Mendes,11,Feminino,Marques,PB,79.5,1.58,31.8,120/80,145.0,,Diabetes
+29,Amanda Novaes,1,M,Ferreira de Minas,SP,42.9,1.97,11.1,13x8,199.0,214.0,Saudável
+30,Fernanda Machado,5,m,Novais,MT,57.1,1.56,23.5,120/80,,278.0,Diabetes
+31,Ana Julia Brito,52,M,Fonseca de Cirino,ES,53.8,2.0,13.4,110/70,231.0,188.0,
+32,Caio Ramos,28,F,Cassiano Grande,DF,120.7,1.7,41.8,140/90,118.0,126.0,Saudável
+33,Lorena Camargo,35,m,Aparecida Paulista,MT,102.4,1.66,37.2,12x8,144.0,,Diabetes
+34,Dr. Davi Lucas da Costa,76,f,Ramos,CE,71.3,1.91,19.5,110/70,215.0,218.0,Obesidade
+35,João Vitor Costa,68,Feminino,Pires,MG,110.5,1.88,31.3,,,230.0,
+36,Sr. João Guilherme Borges,15,Feminino,Aragão da Prata,DF,129.5,1.73,43.3,,,,Pré-diabetes
+37,Bianca Rodrigues,86,Feminino,Pires,PA,129.8,1.8,40.1,140/90,163.0,,Diabetes
+38,Thales Gomes,59,f,Aparecida,PI,81.4,1.54,34.3,110/70,248.0,288.0,Obesidade
+39,Thiago Aparecida,30,Feminino,Cavalcanti,TO,67.6,1.92,18.3,13x8,66.0,,Pré-diabetes
+40,Valentina Mendonça,80,Masculino,Moura de Porto,MA,55.4,1.85,16.2,110/70,162.0,157.0,Hipertensão
+41,Isabella Aparecida,89,Masculino,Casa Grande,AC,83.8,1.76,27.1,120/80,176.0,,Saudável
+42,Julia da Conceição,70,f,Gomes,ES,129.2,1.88,36.6,110/70,,312.0,
+43,Ravy da Luz,30,m,Rodrigues,MG,81.2,1.86,23.5,13x8,,201.0,Diabetes
+44,Guilherme Barros,27,M,da Rocha do Norte,AL,78.6,1.62,29.9,110/70,166.0,,Saudável
+45,Sra. Yasmin Cavalcanti,73,f,Cardoso da Mata,MT,85.1,2.01,21.1,140/90,,257.0,Saudável
+46,Clarice Câmara,43,Feminino,Costa de Minas,GO,106.3,1.66,38.6,13x8,179.0,279.0,Saudável
+47,Lara Moraes,54,F,Rezende das Pedras,AL,126.0,1.52,54.5,140/90,,,Obesidade
+48,Julia Pastor,53,m,da Costa de Novais,CE,122.7,1.71,42.0,,198.0,209.0,
+49,Nicolas da Mota,3,F,Azevedo de Vargas,MT,55.9,1.41,28.1,13x8,121.0,241.0,Pré-diabetes
+50,Mateus Silveira,,F,Almeida de Lopes,BA,98.6,2.03,23.9,,89.0,199.0,Pré-diabetes
+51,Sra. Letícia Ferreira,48,f,Alves,BA,133.9,1.53,57.2,12x8,236.0,,
+52,Cauê da Rosa,5,m,da Rocha,MG,90.9,1.83,27.1,120/80,,,Saudável
+53,Hellena Aparecida,58,Feminino,Nunes,PR,51.1,1.51,22.4,12x8,,,Saudável
+54,Lucca da Costa,31,M,da Rocha,MG,64.3,1.69,22.5,110/70,,206.0,Saudável
+55,Enrico da Cunha,33,m,Silva das Pedras,MS,64.4,1.79,20.1,140/90,202.0,252.0,Hipertensão
+56,Enzo Gabriel das Neves,30,Feminino,Azevedo,AL,85.0,1.86,24.6,110/70,64.0,195.0,Saudável
+57,Sophie Souza,60,Masculino,da Costa de da Rosa,AP,90.7,1.68,32.1,,,,Obesidade
+58,Benjamim da Cunha,40,M,Santos,MS,113.0,2.02,27.7,,107.0,,Obesidade
+59,Camila Abreu,36,M,Porto das Pedras,RS,122.4,1.59,48.4,140/90,,123.0,Obesidade
+60,Levi Abreu,16,Feminino,Montenegro de Farias,MG,126.2,1.72,42.7,120/80,,,Saudável
+61,Aurora da Rosa,61,M,Borges,PA,121.3,1.66,44.0,120/80,207.0,158.0,Pré-diabetes
+62,Melissa Novais,71,f,Garcia,PB,98.7,1.91,27.1,13x8,,,Obesidade
+63,Camila Machado,79,M,Mendes do Oeste,SE,99.0,1.88,28.0,13x8,220.0,187.0,Diabetes
+64,Sra. Emilly Monteiro,52,f,Pinto,RJ,107.4,1.71,36.7,120/80,,,
+65,Sara Duarte,33,Feminino,Freitas de Monteiro,MG,96.9,1.92,26.3,13x8,168.0,259.0,
+66,Sr. Henrique Farias,7,F,Peixoto da Praia,MT,118.2,1.79,36.9,12x8,,,
+67,Zoe Garcia,69,f,Viana,ES,81.0,1.79,25.3,110/70,,,Hipertensão
+68,Thiago Machado,73,Masculino,Garcia do Amparo,RN,134.8,2.05,32.1,,128.0,315.0,Saudável
+69,Caio Moreira,74,f,das Neves,BA,101.7,1.72,34.4,120/80,,,Obesidade
+70,Liz Araújo,88,f,da Cunha,RR,65.3,2.01,16.2,12x8,,,Obesidade
+71,Manuella Machado,65,M,Vasconcelos do Campo,MT,104.1,1.75,34.0,110/70,73.0,,Pré-diabetes
+72,Cauê Mendes,26,m,Garcia da Praia,PB,92.7,2.0,23.2,110/70,,151.0,
+73,Julia da Mata,70,M,Novaes Grande,AP,93.0,1.46,43.6,120/80,178.0,285.0,Saudável
+74,Hellena Araújo,53,f,Câmara,SP,137.9,1.56,56.7,12x8,,168.0,Hipertensão
+75,José Miguel Borges,64,m,Carvalho Paulista,PA,121.2,1.58,48.5,140/90,,,Pré-diabetes
+76,Sr. Fernando Cassiano,48,f,Lopes,AM,132.9,1.97,34.2,,,,Hipertensão
+77,Vitor Hugo Campos,48,f,Montenegro de Duarte,RS,138.8,1.92,37.7,,,129.0,Pré-diabetes
+78,Lorena da Rosa,56,M,Pinto do Galho,RN,90.2,1.7,31.2,,,287.0,Hipertensão
+79,Camila Caldeira,88,f,Oliveira,PA,103.2,1.95,27.1,,,,Pré-diabetes
+80,Yan Rocha,36,F,Rios,PB,"113,4",1.68,40.2,120/80,222.0,233.0,
+81,Gabrielly Nunes,7,m,Marques,MS,72.6,1.68,25.7,13x8,,264.0,Diabetes
+82,Pedro Henrique Pinto,,F,Martins de Fogaça,SP,87.3,1.78,27.6,13x8,,,
+83,Pedro Miguel Moraes,86,Masculino,Sousa,MT,51.6,1.69,18.1,140/90,,,
+84,Theodoro Porto,49,f,Monteiro da Praia,RS,46.2,1.65,17.0,140/90,,,Hipertensão
+85,Henry Oliveira,72,Feminino,Moura de Goiás,SE,116.7,2.03,28.3,12x8,,193.0,Pré-diabetes
+86,Bryan Casa Grande,32,Feminino,Siqueira das Flores,GO,114.3,1.9,31.7,,95.0,280.0,Obesidade
+87,Diego da Mota,16,M,Abreu,AM,130.5,1.61,50.3,110/70,104.0,,Pré-diabetes
+88,Laís Rodrigues,61,m,Borges da Praia,ES,113.4,1.62,43.2,120/80,179.0,156.0,
+89,Maya Pimenta,71,m,Vasconcelos,MS,44.5,1.66,16.1,140/90,197.0,,
+90,Pedro Lucas Duarte,81,m,Sousa,AM,46.4,1.55,19.3,120/80,,276.0,
+91,Ana Julia Costela,38,Feminino,Borges do Amparo,AM,77.9,1.49,35.1,120/80,,149.0,Diabetes
+92,Caio da Cruz,85,Feminino,Caldeira de Camargo,RO,108.1,1.75,35.3,12x8,250.0,226.0,Saudável
+93,Miguel Vieira,88,m,Vasconcelos de Jesus,RJ,57.8,1.69,20.2,13x8,152.0,,Pré-diabetes
+94,Dra. Ana Júlia Machado,35,F,Caldeira,PE,136.7,2.02,33.5,110/70,83.0,284.0,Hipertensão
+95,Josué Novaes,72,F,Barbosa de Minas,MS,42.2,1.9,11.7,13x8,210.0,,Diabetes
+96,Alícia Ribeiro,18,F,Mendes da Mata,TO,91.7,1.92,24.9,120/80,229.0,153.0,Obesidade
+97,Emanuella Rocha,22,m,Cardoso,RJ,40.5,1.88,11.5,12x8,89.0,,Obesidade
+98,Antonella Nunes,78,M,Porto,TO,111.4,1.99,28.1,,,237.0,Hipertensão
+99,Maria Cecília da Mota,13,f,Fonseca do Sul,SC,109.8,1.69,38.4,120/80,142.0,136.0,Obesidade
+100,Bianca Freitas,48,Masculino,Nascimento dos Dourados,AL,90.7,1.69,31.8,12x8,170.0,299.0,
+101,Maria Clara Santos,27,f,Sales,PA,82.4,1.55,34.3,140/90,,226.0,Obesidade
+102,Maria Laura Gonçalves,19,Feminino,Nascimento,PR,131.9,1.44,63.6,120/80,,,Diabetes
+103,Ravy Lima,42,Feminino,Viana,MS,47.8,1.63,18.0,,168.0,,Obesidade
+104,Brenda Melo,61,F,Nascimento,MG,124.0,1.63,46.7,12x8,154.0,,Pré-diabetes
+105,Ana Beatriz Azevedo,79,Masculino,Oliveira,CE,105.9,1.76,34.2,12x8,,127.0,Obesidade
+106,Joana Novais,0,F,Mendonça,DF,126.3,1.77,40.3,110/70,77.0,309.0,Hipertensão
+107,Bianca Freitas,43,F,Macedo,RJ,73.9,1.87,21.1,12x8,212.0,133.0,Diabetes
+108,Alícia Casa Grande,56,Feminino,Novaes,PI,79.5,1.79,24.8,110/70,129.0,313.0,Obesidade
+109,Luiz Gustavo Carvalho,62,Masculino,Rocha do Amparo,ES,105.0,1.43,51.3,110/70,213.0,121.0,Obesidade
+110,Bruna Novaes,37,m,Carvalho de Goiás,CE,47.6,1.72,16.1,110/70,104.0,217.0,Pré-diabetes
+111,Sra. Ana Sousa,50,Feminino,Freitas,AM,39.4,1.41,19.8,120/80,,,
+112,Dra. Stella Martins,41,F,Andrade do Campo,PA,119.1,1.8,36.8,,152.0,231.0,Diabetes
+113,Isabelly da Mota,39,Feminino,Campos,MA,70.6,1.62,26.9,13x8,79.0,255.0,Obesidade
+114,Stella Brito,18,F,Lima de Fernandes,BA,45.8,1.57,18.6,13x8,214.0,314.0,Diabetes
+115,Dr. Erick Nogueira,72,Masculino,Pinto,RN,82.1,2.0,20.5,12x8,,,Diabetes
+116,Arthur Gabriel Novais,35,Masculino,Barros Grande,PE,40.9,1.73,13.7,140/90,,129.0,Obesidade
+117,Vitória Leão,11,Masculino,da Luz de Minas,PI,97.4,1.65,35.8,12x8,201.0,235.0,Obesidade
+118,Rafaela Brito,57,M,Almeida de Barros,PB,120.2,1.94,31.9,,81.0,130.0,
+119,Henrique Câmara,20,m,Campos,MS,74.1,1.58,29.7,110/70,146.0,,Hipertensão
+120,Ísis Borges,32,Feminino,Barros do Oeste,SP,124.4,2.03,30.2,12x8,,140.0,Obesidade
+121,Alice Machado,16,Masculino,PACHECO DO GALHO,MG,109.4,1.46,51.3,12x8,,152.0,
+122,Davi Miguel Gonçalves,39,F,Silva,AM,134.9,1.62,51.4,110/70,109.0,155.0,Hipertensão
+123,Dra. Gabriela Fernandes,69,Feminino,Pinto,RS,127.8,1.42,63.4,140/90,218.0,,Diabetes
+124,Otávio Ferreira,21,Feminino,Barros das Pedras,TO,81.0,1.67,29.0,,244.0,,
+125,Luiz Miguel Cardoso,60,F,Câmara,PB,73.6,2.02,18.0,110/70,,,Pré-diabetes
+126,Bernardo Albuquerque,77,F,da Cunha,MG,126.7,1.43,62.0,110/70,155.0,302.0,Obesidade
+127,Dra. Gabriela Nunes,65,F,Rios dos Dourados,MS,122.3,1.46,57.4,13x8,,,Hipertensão
+128,André Duarte,10,m,Almeida,DF,58.6,1.61,22.6,120/80,,157.0,Hipertensão
+129,Sabrina Sá,17,Feminino,da Mota,ES,84.3,1.8,26.0,120/80,,175.0,Pré-diabetes
+130,Augusto Lima,36,F,Correia Alegre,MS,"66,6",1.43,32.6,110/70,,136.0,Saudável
+131,Davi Luiz das Neves,30,Feminino,Cunha,MG,50.1,1.68,17.8,12x8,150.0,,Diabetes
+132,Sra. Allana Pinto,8,Masculino,Sales,MG,92.1,1.91,25.2,12x8,201.0,,Hipertensão
+133,Srta. Mariana Barros,2,m,Sales,PB,117.8,1.62,44.9,,228.0,,Diabetes
+134,Mariana Mendes,22,Feminino,Monteiro,PE,83.8,1.85,24.5,,106.0,,Hipertensão
+135,Sr. Emanuel Brito,5,m,Cassiano da Praia,GO,133.0,1.73,44.4,12x8,,129.0,Obesidade
+136,Pedro Lucas Correia,42,m,Pereira,SE,48.1,1.64,17.9,110/70,,,Diabetes
+137,Ana Clara Monteiro,66,m,Moura,PB,119.1,1.87,34.1,120/80,170.0,,Obesidade
+138,Thiago Gonçalves,57,Masculino,Machado,GO,110.4,1.51,48.4,110/70,,,Pré-diabetes
+139,Dr. Davi Lucca Melo,7,M,Dias das Pedras,RR,105.5,1.66,38.3,12x8,233.0,127.0,Pré-diabetes
+140,Sr. Eduardo Barbosa,30,Feminino,Sá de Pacheco,PI,73.5,1.65,27.0,12x8,68.0,,Obesidade
+141,Bella Nunes,67,m,da Mata do Oeste,MT,76.8,1.82,23.2,13x8,89.0,308.0,Saudável
+142,João Pedro Fogaça,33,Feminino,Brito do Amparo,SC,81.9,2.05,19.5,140/90,,171.0,Diabetes
+143,Davi Rios,56,M,Azevedo,PI,120.1,2.03,29.1,140/90,,301.0,Pré-diabetes
+144,Eduardo Sá,91,Feminino,Câmara de das Neves,AC,132.4,1.81,40.4,140/90,190.0,151.0,Diabetes
+145,Sr. Valentim Vasconcelos,73,m,Guerra do Galho,ES,84.1,2.04,20.2,13x8,216.0,,Saudável
+146,Gabriela da Paz,52,Masculino,da Paz da Praia,PR,42.7,2.03,10.4,,,,Diabetes
+147,Dra. Raquel Vieira,23,F,Aragão,GO,80.4,1.99,20.3,120/80,91.0,197.0,Diabetes
+148,Srta. Maria Julia Silva,66,m,Pereira do Oeste,PB,123.8,1.56,50.9,,,,Pré-diabetes
+149,Maria Luiza Souza,74,F,Costela de Nunes,MG,53.0,1.81,16.2,12x8,146.0,127.0,Hipertensão
+150,Henrique Camargo,26,Masculino,Martins de Freitas,RS,78.7,1.82,23.8,110/70,,,Saudável
+151,Ana Vitória Carvalho,58,M,Oliveira de Minas,AL,107.3,1.5,47.7,110/70,,,Pré-diabetes
+152,Luiz Fernando Nascimento,44,f,Câmara do Norte,CE,48.7,1.64,18.1,12x8,,,Hipertensão
+153,Ravy Alves,37,f,Araújo,PI,125.7,1.67,45.1,13x8,,168.0,Saudável
+154,Maria Ribeiro,63,M,Cardoso do Norte,DF,44.5,1.66,16.1,110/70,121.0,,Hipertensão
+155,Mirella Aragão,83,Feminino,Camargo,SP,84.4,1.75,27.6,120/80,170.0,,Saudável
+156,Davi Luiz da Luz,24,m,Barros,ES,93.1,1.45,44.3,12x8,,279.0,Diabetes
+157,Rafael da Mata,43,Masculino,Dias de Minas,AM,133.6,1.89,37.4,13x8,,248.0,Hipertensão
+158,Asafe Rios,66,f,Cassiano do Galho,PE,50.6,1.98,12.9,13x8,,,Pré-diabetes
+159,Alexia Brito,65,Masculino,Lima de Silva,PA,86.4,1.77,27.6,110/70,,204.0,Saudável
+160,Anthony Gabriel Rios,88,Feminino,Machado,MA,37.8,1.71,12.9,,208.0,304.0,Pré-diabetes
+161,Guilherme Melo,48,F,Andrade,TO,121.3,1.56,49.8,12x8,239.0,168.0,Saudável
+162,Ana Carolina Campos,52,Masculino,Borges,TO,116.4,2.0,29.1,,246.0,300.0,Pré-diabetes
+163,Dra. Antonella Brito,67,f,Nunes de da Luz,RO,67.9,1.51,29.8,12x8,,,Pré-diabetes
+164,Rodrigo Rocha,38,F,Garcia,PB,133.9,2.04,32.2,140/90,240.0,,Obesidade
+165,Maria Laura Freitas,92,m,Machado,BA,65.2,1.77,20.8,12x8,,208.0,Obesidade
+166,Luiz Otávio da Rosa,56,Feminino,Rocha,RS,61.9,1.71,21.2,13x8,,,Diabetes
+167,Ísis Sá,6,Feminino,Vieira,SE,130.0,1.55,54.1,13x8,73.0,,
+168,Ísis Pimenta,70,F,Cassiano da Praia,TO,77.7,2.01,19.2,110/70,182.0,,Obesidade
+169,José Barbosa,83,Masculino,Farias Alegre,RJ,59.4,1.88,16.8,120/80,,165.0,Saudável
+170,Sr. Joaquim Cavalcanti,37,M,Sousa,PB,36.0,1.77,11.5,120/80,,,Diabetes
+171,Maria Flor Mendonça,14,m,Moura,RJ,52.1,1.7,18.0,140/90,243.0,,Obesidade
+172,Giovanna Pacheco,81,f,Fernandes,SP,121.8,1.73,40.7,120/80,162.0,167.0,Saudável
+173,Helena Fernandes,30,f,Sousa da Mata,PI,114.1,2.02,28.0,140/90,209.0,,
+174,João Lucas da Cruz,20,f,Siqueira,TO,107.0,2.0,26.8,,139.0,,Obesidade
+175,Davi Miguel Cassiano,19,f,Souza,PB,113.5,1.79,35.4,110/70,,313.0,Diabetes
+176,Dra. Maria Clara Melo,67,f,da Mata do Amparo,PR,90.5,1.64,33.6,12x8,88.0,260.0,Pré-diabetes
+177,Ana Sophia Cavalcante,56,M,Pimenta,RJ,106.4,1.87,30.4,110/70,,,Diabetes
+178,Julia Cassiano,59,Feminino,Sousa de Martins,RO,119.7,1.87,34.2,110/70,125.0,310.0,Pré-diabetes
+179,Sra. Aurora Farias,69,M,Cirino de Goiás,SE,133.1,1.44,64.2,110/70,,224.0,Diabetes
+180,Marcela da Cunha,53,m,Novaes,PI,139.2,1.65,51.1,110/70,156.0,294.0,
+181,Sarah Albuquerque,50,Masculino,Silveira de Goiás,SP,48.4,2.04,11.6,120/80,,,Pré-diabetes
+182,Emanuella da Mota,19,m,Siqueira,AL,54.8,1.97,14.1,120/80,,277.0,Diabetes
+183,Bruna Castro,76,Feminino,da Cunha,RO,108.8,1.43,53.2,,,232.0,Pré-diabetes
+184,Evelyn Lima,64,m,Garcia,PR,59.6,2.0,14.9,12x8,,,Diabetes
+185,Dra. Valentina Gonçalves,35,M,da Rosa,DF,93.5,1.78,29.5,,,,Hipertensão
+186,Isaque Machado,67,m,Moura,MS,108.1,1.67,38.8,140/90,156.0,,Diabetes
+187,Luiz Felipe Casa Grande,59,M,Cardoso,PR,94.1,2.03,22.8,12x8,195.0,219.0,Obesidade
+188,Raul Garcia,47,M,Ramos do Galho,TO,91.2,1.94,24.2,120/80,,292.0,Hipertensão
+189,Ana Borges,71,F,Aragão de Farias,CE,85.3,1.97,22.0,140/90,137.0,174.0,
+190,Pedro Miguel da Rosa,31,Feminino,da Conceição das Pedras,RS,98.5,1.53,42.1,13x8,,,Saudável
+191,Otávio Mendonça,46,Masculino,da Rocha de Carvalho,PB,127.7,1.7,44.2,,,,Obesidade
+192,Luiz Fernando Vargas,18,M,Novais,SC,62.4,2.01,15.4,12x8,,195.0,Diabetes
+193,Dra. Luana Souza,63,Masculino,Cardoso,SP,103.7,1.85,30.3,140/90,,237.0,
+194,Catarina da Rocha,62,F,Teixeira da Mata,AC,131.3,1.75,42.9,,75.0,139.0,Hipertensão
+195,Fernanda Castro,,F,SAMPAIO DO GALHO,RN,36.0,1.73,12.0,140/90,,,Hipertensão
+196,Otto Martins,67,Feminino,Rodrigues,AL,63.8,2.04,15.3,120/80,,165.0,Hipertensão
+197,Sr. Levi Porto,32,m,Costela,CE,63.1,1.66,22.9,140/90,,264.0,
+198,Srta. Ana Julia Novais,83,Feminino,Macedo do Sul,PA,114.8,1.46,53.9,110/70,,134.0,
+199,Julia Novaes,42,Masculino,Almeida do Sul,MA,137.6,2.03,33.4,12x8,70.0,,Obesidade
+200,Leonardo Sales,69,Masculino,Costela,PR,104.1,1.52,45.1,140/90,64.0,270.0,
+201,Luiza Cunha,72,F,Abreu,AM,94.5,1.95,24.9,,,218.0,
+202,Srta. Sofia Campos,6,M,Camargo de Minas,ES,80.9,1.95,21.3,140/90,,,Hipertensão
+203,Sr. Otávio Silva,29,m,Aragão Verde,RN,93.1,1.64,34.6,13x8,,,Diabetes
+204,Maria Eduarda Ribeiro,91,Feminino,Pastor,RO,51.2,1.65,18.8,140/90,87.0,,Saudável
+205,Srta. Helena Albuquerque,23,f,da Cunha,PB,82.1,1.76,26.5,110/70,86.0,,Pré-diabetes
+206,Gustavo Henrique Silveira,49,M,Cassiano,TO,65.6,1.65,24.1,120/80,245.0,266.0,
+207,Ryan Araújo,63,F,Montenegro do Campo,SE,41.6,1.68,14.7,110/70,,320.0,Obesidade
+208,Theo Monteiro,76,Masculino,da Cruz do Sul,PI,55.5,1.47,25.7,140/90,,,Obesidade
+209,Sr. Augusto Lima,83,Masculino,Costa Grande,RN,49.3,1.61,19.0,,,200.0,Saudável
+210,Dr. Cauê Alves,62,Masculino,Sousa,GO,117.1,1.61,45.2,140/90,,149.0,Pré-diabetes
+211,Davi Luiz Melo,3,Feminino,das Neves Alegre,AM,83.5,1.86,24.1,110/70,134.0,,Diabetes
+212,Sra. Maria Luiza Fonseca,91,f,da Rosa,PI,117.9,1.45,56.1,12x8,,,Pré-diabetes
+213,Liam Andrade,68,Masculino,Cavalcanti de Duarte,SP,102.0,1.46,47.9,13x8,,162.0,Pré-diabetes
+214,Ravi Lucca da Cunha,42,f,Sousa de Lima,AL,46.1,1.46,21.6,13x8,190.0,,Saudável
+215,Anna Liz Campos,19,m,Viana,PR,139.8,1.71,47.8,140/90,166.0,149.0,Obesidade
+216,Davi Lucas Almeida,61,m,Camargo,RR,85.0,1.68,30.1,,,,Hipertensão
+217,Marcelo Nogueira,82,M,Vargas Paulista,SE,106.1,1.51,46.5,,122.0,261.0,Obesidade
+218,Alexandre Lima,51,Feminino,Costa,SE,54.4,1.82,16.4,110/70,161.0,308.0,Saudável
+219,Thiago Fonseca,26,m,Castro,PR,114.0,1.93,30.6,120/80,207.0,257.0,Obesidade
+220,Maria Laura Cavalcante,62,Masculino,Nunes,DF,136.4,1.6,53.3,110/70,,270.0,Obesidade
+221,Srta. Lara Sampaio,86,Feminino,Moura de da Rosa,SP,119.1,2.0,29.8,12x8,81.0,200.0,Diabetes
+222,Cauê Castro,65,f,Barros,MA,78.9,1.49,35.5,110/70,168.0,244.0,Pré-diabetes
+223,Mathias Cirino,57,Masculino,Dias Paulista,RO,40.6,1.63,15.3,120/80,184.0,,Pré-diabetes
+224,José Teixeira,53,Feminino,Fogaça,RO,123.2,1.72,41.6,120/80,204.0,314.0,Obesidade
+225,Lavínia da Costa,58,Masculino,da Rosa,AC,113.0,1.9,31.3,12x8,190.0,266.0,Obesidade
+226,Maria Clara Albuquerque,5,Feminino,Teixeira de Lima,MT,81.3,1.54,34.3,110/70,86.0,196.0,Saudável
+227,Aurora Mendonça,15,F,Caldeira da Serra,PA,57.0,1.88,16.1,,,162.0,Diabetes
+228,Gustavo Henrique Brito,68,m,Ribeiro do Galho,DF,97.7,1.51,42.8,,,,Pré-diabetes
+229,Leandro Machado,52,M,Brito,RS,139.2,1.96,36.2,13x8,239.0,183.0,
+230,Guilherme Castro,50,f,da Cruz do Campo,RJ,49.9,1.81,15.2,,,235.0,
+231,Arthur Ferreira,95,m,Pacheco de Vasconcelos,PB,107.9,1.97,27.8,110/70,,268.0,
+232,Dr. Dante Silveira,89,m,Vasconcelos do Norte,CE,124.3,1.92,33.7,110/70,,,Obesidade
+233,Josué Brito,16,Masculino,Gonçalves do Oeste,AC,124.5,1.91,34.1,,72.0,,Hipertensão
+234,Oliver Ramos,0,f,Cunha do Campo,SC,56.2,1.85,16.4,13x8,,,Hipertensão
+235,Augusto Abreu,83,F,Pacheco das Flores,PR,40.4,1.81,12.3,,239.0,229.0,
+236,Sra. Isabelly Borges,75,F,Sampaio,RJ,89.5,1.69,31.3,120/80,,,
+237,Guilherme Costa,93,M,da Conceição Verde,ES,45.8,1.64,17.0,140/90,,318.0,
+238,Valentim Correia,1,Masculino,Carvalho,SP,103.3,1.69,36.2,,114.0,,Diabetes
+239,Carlos Eduardo Porto,75,Feminino,Brito,PB,75.3,2.03,18.3,140/90,95.0,190.0,Diabetes
+240,Ravi Lucca Costa,88,M,Cassiano de Fernandes,TO,124.0,1.83,37.0,140/90,112.0,,Obesidade
+241,Beatriz Brito,30,f,Marques,AM,75.5,1.56,31.0,,212.0,255.0,Obesidade
+242,Davi Gomes,72,f,da Mata,AL,73.4,1.84,21.7,110/70,78.0,270.0,Hipertensão
+243,Otávio das Neves,50,Masculino,Martins de Aparecida,GO,65.1,1.86,18.8,110/70,,141.0,Obesidade
+244,Dr. Francisco Gonçalves,19,Masculino,Freitas do Norte,SP,69.3,1.78,21.9,,234.0,,
+245,Dr. Francisco Cardoso,55,M,Pires,SP,"82,6",1.8,25.5,140/90,230.0,150.0,
+246,Vinícius Teixeira,44,Masculino,Vieira da Prata,MT,89.3,1.93,24.0,140/90,,,
+247,Dr. Mateus Camargo,54,m,Moura,AM,90.0,1.57,36.5,12x8,220.0,,Pré-diabetes
+248,Rael Garcia,47,F,Barros do Campo,MS,"61,8",1.47,28.6,12x8,232.0,178.0,Hipertensão
+249,Leonardo Moura,46,f,Cunha de Ramos,AC,131.6,1.52,57.0,120/80,,,Diabetes
+250,Vitor Hugo Leão,9,Masculino,Pacheco das Flores,RR,74.1,1.73,24.8,120/80,105.0,252.0,Saudável
+251,Calebe Siqueira,39,m,Camargo,PB,44.1,1.7,15.3,140/90,,,
+252,Eloah Leão,63,F,Silveira,RR,111.9,1.76,36.1,13x8,98.0,224.0,Diabetes
+253,Ana Julia da Rocha,1,m,Costela da Mata,TO,35.2,1.83,10.5,,,146.0,Pré-diabetes
+254,Ravi Cassiano,18,Feminino,Lopes de Azevedo,DF,64.4,1.43,31.5,13x8,,,Saudável
+255,Isabela da Costa,17,Feminino,Garcia das Flores,MA,121.1,1.45,57.6,12x8,,289.0,Diabetes
+256,Ana Carolina Machado,50,Feminino,Oliveira,TO,122.3,1.61,47.2,110/70,129.0,139.0,Diabetes
+257,Sr. Emanuel Pires,21,f,Cirino Verde,AL,83.9,1.66,30.4,12x8,151.0,,Saudável
+258,Srta. Aurora Cirino,87,m,Ribeiro Grande,AP,121.8,1.85,35.6,120/80,,157.0,
+259,Henry Gabriel Sampaio,86,m,Mendonça do Amparo,SC,62.3,2.04,15.0,120/80,,262.0,Hipertensão
+260,Maria Clara Andrade,1,M,Caldeira,ES,122.2,2.04,29.4,13x8,,215.0,Pré-diabetes
+261,Sophia Rios,8,F,Sá de Moreira,CE,129.8,1.69,45.4,13x8,,151.0,Saudável
+262,Nathan Caldeira,92,f,Abreu do Oeste,PI,87.1,1.65,32.0,110/70,,174.0,Obesidade
+263,Maria Fernanda Sampaio,79,Masculino,Barbosa,ES,60.8,1.59,24.0,110/70,,135.0,Obesidade
+264,Mariane Rodrigues,67,F,Gomes,AM,101.2,1.92,27.5,120/80,,,Obesidade
+265,Sra. Sarah Ferreira,23,M,Silva das Pedras,AC,68.5,1.54,28.9,140/90,,,Pré-diabetes
+266,Ana Carolina Câmara,84,F,Macedo da Prata,AM,63.0,1.93,16.9,,74.0,,Obesidade
+267,Maria Júlia Pires,30,Masculino,Marques do Oeste,PR,68.4,1.88,19.4,140/90,211.0,,Pré-diabetes
+268,Ana Liz Montenegro,63,Masculino,Santos de Mendonça,AP,"67,5",1.72,22.8,120/80,74.0,274.0,Hipertensão
+269,Ágatha Gonçalves,25,F,Peixoto,RS,70.8,1.52,30.6,140/90,75.0,157.0,Hipertensão
+270,Alexia Pinto,47,Feminino,Jesus,MS,133.9,1.66,48.6,120/80,,202.0,Diabetes
+271,Isabella Aragão,62,Feminino,Aparecida,MT,68.3,1.86,19.7,12x8,,177.0,Saudável
+272,Rebeca Alves,93,M,Teixeira,RJ,134.6,2.02,33.0,110/70,205.0,,Pré-diabetes
+273,Josué da Luz,,m,Brito,AL,113.3,1.55,47.2,140/90,102.0,,Saudável
+274,Manuela Cunha,44,m,da Mata Grande,MS,117.6,1.87,33.6,120/80,,,Diabetes
+275,Augusto Vasconcelos,69,f,Andrade,CE,45.6,1.71,15.6,12x8,226.0,,Hipertensão
+276,Ana Beatriz Costela,33,M,Fogaça,RO,42.8,1.51,18.8,110/70,101.0,260.0,Obesidade
+277,Kamilly Pinto,3,f,Pereira do Norte,SC,134.0,1.51,58.8,110/70,100.0,,Diabetes
+278,Ian Pereira,93,Masculino,Novais,SE,"62,9",1.58,25.2,13x8,84.0,,Diabetes
+279,Liam Montenegro,84,Feminino,Cassiano de Pacheco,AL,98.0,1.53,41.9,120/80,112.0,,Hipertensão
+280,Maria Julia Porto,60,f,Pires Paulista,DF,129.0,1.57,52.3,,,,Saudável
+281,Maria Helena da Mota,59,m,Silva Grande,MG,58.8,1.57,23.9,120/80,98.0,,Pré-diabetes
+282,Sr. Augusto Rocha,7,f,Duarte da Serra,RN,120.9,1.67,43.4,12x8,,266.0,Saudável
+283,Clarice Jesus,4,Masculino,Brito,AM,95.0,1.74,31.4,12x8,233.0,,Diabetes
+284,Bento Albuquerque,24,F,Almeida de Azevedo,PB,39.5,1.45,18.8,,171.0,280.0,Pré-diabetes
+285,Anthony Freitas,8,M,Sousa,TO,75.8,1.66,27.5,140/90,,,Hipertensão
+286,Sra. Raquel Albuquerque,12,M,Sá,PA,94.1,1.47,43.5,140/90,,,Saudável
+287,Lunna Araújo,22,m,Aparecida,DF,77.3,1.8,23.9,,,,Obesidade
+288,Natália Gonçalves,34,m,Andrade de Goiás,RR,37.1,1.93,10.0,140/90,,245.0,Diabetes
+289,Bernardo das Neves,41,m,Barbosa Alegre,RO,111.5,1.79,34.8,120/80,,,
+290,Zoe Mendonça,7,Masculino,Caldeira,SC,118.1,1.44,57.0,,,154.0,Diabetes
+291,Gael Henrique Camargo,31,M,Oliveira,PB,82.9,2.0,20.7,,,,Pré-diabetes
+292,João Rios,30,m,Alves,TO,86.3,1.69,30.2,110/70,,208.0,Obesidade
+293,Ravy Guerra,49,M,Peixoto da Serra,PR,52.1,1.77,16.6,13x8,116.0,293.0,Obesidade
+294,Thiago Souza,87,M,da Conceição da Prata,RR,84.8,1.49,38.2,13x8,213.0,,Pré-diabetes
+295,Luigi Campos,82,m,Garcia das Pedras,PA,79.5,1.64,29.6,140/90,,,Obesidade
+296,Ayla Pacheco,13,M,Freitas,SC,88.7,1.83,26.5,140/90,,196.0,Saudável
+297,Nathan Cirino,35,m,da Conceição,AP,103.9,2.02,25.5,,136.0,158.0,Hipertensão
+298,Alexia da Conceição,84,m,Vasconcelos,MG,106.5,1.87,30.5,,,,Saudável
+299,Esther Guerra,73,F,Camargo,RJ,71.0,1.86,20.5,,,,Pré-diabetes
+300,Gabriel Porto,71,F,Monteiro de Ferreira,RO,65.8,1.71,22.5,,126.0,,
+301,Liam da Mota,39,f,Vasconcelos,SC,117.7,1.62,44.8,140/90,,238.0,Saudável
+302,Dra. Ana Beatriz Pereira,79,M,Ribeiro,RS,84.6,1.53,36.1,120/80,,,Saudável
+303,Eloah Novais,25,m,Machado Alegre,AM,78.0,1.77,24.9,110/70,,303.0,Hipertensão
+304,Carlos Eduardo Sá,81,M,Rios,AL,35.5,1.58,14.2,13x8,207.0,245.0,Diabetes
+305,Sra. Evelyn Freitas,61,f,Sá da Serra,PI,35.5,1.75,11.6,,155.0,202.0,Hipertensão
+306,Maria Eduarda da Mata,88,m,Nascimento de Dias,PE,67.8,1.47,31.4,12x8,,162.0,Hipertensão
+307,Dr. Oliver Carvalho,76,Masculino,Nunes,TO,70.5,1.98,18.0,13x8,,211.0,Diabetes
+308,Srta. Sophia Silva,29,F,Mendonça da Serra,SC,111.4,1.49,50.2,,65.0,,
+309,Sophie Abreu,32,Masculino,Carvalho,MT,100.4,1.79,31.3,120/80,229.0,287.0,Hipertensão
+310,João Miguel Cavalcante,70,m,Souza dos Dourados,AP,84.8,1.5,37.7,,235.0,,
+311,Luiz Gustavo Castro,89,F,Camargo da Prata,AM,79.0,1.98,20.2,12x8,244.0,192.0,Hipertensão
+312,Ana Cecília Camargo,66,F,Silva de Nunes,CE,"72,6",1.67,26.0,13x8,,,Obesidade
+313,Luiz Henrique Brito,14,Masculino,Pereira,RN,105.2,1.5,46.8,120/80,190.0,305.0,Obesidade
+314,Maria Flor Peixoto,33,f,Gonçalves do Galho,MG,40.3,1.93,10.8,120/80,,,Saudável
+315,Thomas Fernandes,5,M,Pereira,PR,124.5,1.83,37.2,13x8,,,
+316,Letícia Costa,51,f,Freitas,MA,136.0,1.58,54.5,110/70,,227.0,Hipertensão
+317,Isabel Farias,20,M,da Rocha do Galho,PR,78.7,1.78,24.8,12x8,,,Obesidade
+318,Kevin Freitas,93,F,Vargas de Câmara,MS,85.7,1.72,29.0,110/70,172.0,,
+319,Davi Luiz Carvalho,95,Masculino,Marques,GO,111.0,1.55,46.2,,146.0,230.0,Saudável
+320,Luna da Conceição,71,Masculino,das Neves,ES,40.7,1.82,12.3,13x8,,246.0,Hipertensão
+321,Laís Brito,35,M,Cavalcante,SE,88.2,1.76,28.5,110/70,163.0,,Saudável
+322,Antonella da Mata,57,m,Marques,PE,"47,5",1.72,16.1,,64.0,,Hipertensão
+323,Dr. João Lucas Camargo,77,Masculino,Teixeira de Mendes,AC,101.9,1.98,26.0,12x8,,,Hipertensão
+324,Luigi Cavalcanti,79,Masculino,Monteiro do Norte,AM,84.7,1.83,25.3,,175.0,144.0,Hipertensão
+325,Maria Sophia Sá,37,Masculino,Jesus de Guerra,PA,89.8,1.86,26.0,120/80,,,Hipertensão
+326,Lorena Costela,50,F,Cavalcante do Oeste,ES,83.0,1.91,22.8,,146.0,,Hipertensão
+327,Isabela Pires,57,f,Souza,GO,104.1,2.02,25.5,13x8,187.0,255.0,Pré-diabetes
+328,Maria Liz Almeida,65,F,Martins,AP,107.6,1.51,47.2,13x8,,,Pré-diabetes
+329,Aylla Teixeira,88,F,Silveira,PA,63.7,2.03,15.5,140/90,175.0,,Pré-diabetes
+330,Srta. Natália Camargo,89,Masculino,Almeida Alegre,ES,125.4,1.86,36.2,12x8,221.0,171.0,Pré-diabetes
+331,Lucca Rodrigues,16,Feminino,Jesus do Campo,RS,103.3,2.02,25.3,12x8,,301.0,Obesidade
+332,João Moreira,90,f,Vargas de Pastor,SP,105.8,1.98,27.0,12x8,,123.0,Hipertensão
+333,Allana Vasconcelos,34,F,Ferreira do Oeste,CE,138.3,1.84,40.8,13x8,,172.0,Obesidade
+334,Rodrigo das Neves,94,Masculino,Macedo do Oeste,AC,125.8,1.88,35.6,12x8,159.0,,
+335,Bernardo Fernandes,87,m,Guerra de Goiás,SE,136.4,1.43,66.7,,124.0,,Diabetes
+336,Srta. Sabrina Martins,75,Masculino,Marques,MT,112.5,1.53,48.1,,,234.0,
+337,Dr. Fernando Costela,15,f,Fonseca Verde,RO,39.3,1.58,15.7,140/90,93.0,,Hipertensão
+338,Dr. Liam Alves,19,m,Siqueira de Goiás,PI,97.7,1.9,27.1,,,,Hipertensão
+339,Enrico Mendonça,23,Masculino,Vargas,BA,42.2,1.73,14.1,110/70,,,Diabetes
+340,Fernanda Costa,37,F,Moraes de Rios,MG,134.8,1.8,41.6,110/70,203.0,,Saudável
+341,Mathias Fonseca,31,M,Siqueira das Pedras,GO,106.7,1.61,41.2,120/80,,,Hipertensão
+342,Camila Cavalcante,65,f,da Mota Grande,AC,86.1,1.59,34.1,,,251.0,Hipertensão
+343,Carlos Eduardo Azevedo,0,Feminino,Sales,RR,41.9,1.84,12.4,13x8,,146.0,Pré-diabetes
+344,Bella Lopes,55,Feminino,Dias de Guerra,GO,120.8,1.45,57.5,,99.0,,Hipertensão
+345,Sra. Sofia Vargas,71,M,Porto,TO,95.4,1.55,39.7,140/90,,,Saudável
+346,André Viana,0,Feminino,Oliveira do Amparo,MT,110.6,1.44,53.3,,209.0,299.0,Obesidade
+347,Dra. Maria Luiza Viana,38,Masculino,Barros do Galho,AC,44.1,1.9,12.2,110/70,,289.0,Saudável
+348,Rafael Martins,69,m,da Luz,PI,135.8,1.49,61.2,,,122.0,Hipertensão
+349,Isis Siqueira,70,M,Barbosa de Novaes,PE,67.0,1.89,18.8,,148.0,225.0,Diabetes
+350,Sra. Caroline Duarte,14,F,Cavalcante,RS,105.5,1.77,33.7,120/80,,285.0,Obesidade
+351,Sarah Cirino,74,f,Costa do Sul,RR,134.9,1.63,50.8,,227.0,,Pré-diabetes
+352,Sr. Henrique Aragão,,Masculino,Costa,DF,104.2,1.85,30.4,13x8,,,Diabetes
+353,João Guilherme Pires,94,Feminino,Almeida,PB,80.8,1.95,21.2,13x8,,,Saudável
+354,Aurora Costa,22,Feminino,Pacheco,RR,"98,7",1.95,26.0,13x8,197.0,187.0,
+355,Caio Caldeira,3,Masculino,Silva,SP,95.8,1.9,26.5,13x8,,,
+356,Marcos Vinicius Sousa,,Feminino,Aparecida de Nunes,MT,125.0,1.49,56.3,12x8,190.0,,Pré-diabetes
+357,Mariane Camargo,78,Feminino,Guerra,PA,52.4,1.73,17.5,110/70,100.0,264.0,
+358,Murilo Vargas,62,F,Correia da Mata,AM,41.6,1.64,15.5,120/80,231.0,,Saudável
+359,Vinícius Oliveira,83,m,Guerra,RO,45.8,2.03,11.1,,,268.0,Saudável
+360,Sr. João Sampaio,9,Masculino,COSTELA DO NORTE,PE,61.4,2.03,14.9,13x8,,,Saudável
+361,Breno Almeida,17,f,da Mata das Flores,CE,52.4,1.45,24.9,,131.0,158.0,Diabetes
+362,Theodoro Ribeiro,29,f,Marques da Prata,AL,120.2,1.87,34.4,110/70,,242.0,Pré-diabetes
+363,Maya Sousa,5,F,Lopes,ES,95.2,1.5,42.3,,191.0,266.0,Hipertensão
+364,Arthur Miguel Barbosa,51,Masculino,Abreu,AM,136.8,1.81,41.8,,,141.0,Saudável
+365,Isis da Luz,28,f,Moura,SE,98.1,1.92,26.6,13x8,,,Saudável
+366,Dr. Luiz Felipe Cunha,16,M,Garcia da Praia,GO,36.7,1.74,12.1,12x8,,158.0,Diabetes
+367,Diego Barros,68,Masculino,Siqueira Grande,PA,114.0,1.46,53.5,,93.0,,Pré-diabetes
+368,Ravy Barbosa,54,F,Correia de da Luz,ES,133.5,1.71,45.7,110/70,149.0,228.0,Obesidade
+369,Renan Rodrigues,,Masculino,Guerra,AL,127.1,1.67,45.6,13x8,61.0,267.0,Pré-diabetes
+370,Bernardo Nascimento,40,f,Rezende do Campo,SC,73.0,1.5,32.4,,,,Pré-diabetes
+371,Francisco Mendonça,26,f,Souza,DF,93.0,1.76,30.0,13x8,,,Pré-diabetes
+372,Marcelo Albuquerque,84,M,Garcia dos Dourados,PE,113.5,1.69,39.7,,101.0,,Obesidade
+373,Rafaela da Cruz,6,F,Oliveira,PR,75.9,1.81,23.2,120/80,,,Hipertensão
+374,Olívia Câmara,4,Feminino,Moura,SP,75.4,2.04,18.1,12x8,,302.0,Diabetes
+375,Mateus Cunha,84,Masculino,VIEIRA GRANDE,SP,65.0,1.42,32.2,12x8,190.0,277.0,
+376,Mariana Cardoso,,M,Peixoto,DF,139.7,1.91,38.3,140/90,,223.0,Pré-diabetes
+377,Vinícius Cavalcanti,70,m,da Luz de Pinto,TO,111.2,1.76,35.9,12x8,,190.0,Pré-diabetes
+378,José Pedro Lima,0,m,Rocha,MS,53.4,1.73,17.8,12x8,,207.0,Pré-diabetes
+379,Dr. Danilo Sá,73,m,Camargo do Campo,MS,107.9,2.03,26.2,12x8,183.0,,Saudável
+380,Srta. Antonella Jesus,61,M,Nogueira dos Dourados,TO,"62,1",1.65,22.8,13x8,233.0,,Obesidade
+381,Dr. Marcos Vinicius Brito,31,m,Moreira,PR,44.8,1.84,13.2,140/90,79.0,,Obesidade
+382,Dra. Ana Vitória Rios,95,Feminino,Fernandes,AP,132.7,1.52,57.4,,111.0,308.0,Obesidade
+383,Mariane Campos,79,m,Machado,PB,51.4,1.47,23.8,120/80,,277.0,Pré-diabetes
+384,Anthony Gabriel da Mata,40,f,Rios de Moura,PE,129.3,1.97,33.3,12x8,,,Saudável
+385,João Gabriel Jesus,54,f,PEREIRA PAULISTA,PR,133.7,1.42,66.3,140/90,160.0,237.0,
+386,Ravi Moraes,86,F,Sousa do Norte,ES,74.8,1.47,34.6,140/90,,,Diabetes
+387,Matteo Carvalho,23,f,Aragão do Sul,RS,79.5,1.67,28.5,140/90,,,Diabetes
+388,Manuela Macedo,12,Feminino,Casa Grande,SC,63.3,1.55,26.3,110/70,157.0,157.0,Saudável
+389,Marina Moraes,80,Masculino,Cavalcanti,MG,91.1,1.61,35.1,110/70,,263.0,Saudável
+390,Maria Alice Mendes,32,f,Siqueira do Amparo,MG,123.1,1.46,57.8,,,,Pré-diabetes
+391,Josué Vargas,52,M,Cassiano de Cavalcanti,TO,71.9,1.84,21.2,12x8,110.0,,Obesidade
+392,Henrique Moraes,57,M,Montenegro,PI,75.0,1.59,29.7,,97.0,,Saudável
+393,Dr. Isaac da Costa,9,M,Cavalcante,PA,52.0,1.55,21.6,140/90,,,Pré-diabetes
+394,Giovanna da Cruz,46,Feminino,Dias,CE,96.6,2.03,23.4,110/70,102.0,125.0,
+395,Ian Nogueira,95,M,Andrade das Flores,RJ,57.1,1.66,20.7,120/80,,260.0,Hipertensão
+396,Sr. Benjamin Camargo,13,m,Castro,TO,99.9,1.45,47.5,110/70,139.0,,Saudável
+397,Brayan Pires,3,M,Nascimento,PE,104.7,1.96,27.3,140/90,,,Pré-diabetes
+398,Sr. Cauê Lopes,22,Masculino,Pimenta do Campo,MG,97.7,1.81,29.8,,,,Obesidade
+399,Catarina Alves,39,m,Campos das Flores,MT,78.3,1.5,34.8,120/80,60.0,,Saudável
+400,Cecilia Pimenta,61,m,Cunha,BA,36.0,1.68,12.8,140/90,212.0,,Diabetes
+401,Lunna Vargas,20,Feminino,Abreu do Amparo,RR,112.4,1.65,41.3,110/70,,,
+402,Srta. Maria Cecília Lopes,88,Feminino,Silva,RO,63.5,1.82,19.2,12x8,,168.0,Diabetes
+403,Melina Teixeira,57,m,Monteiro Verde,RS,108.5,1.72,36.7,140/90,64.0,132.0,Diabetes
+404,Esther Mendonça,56,Feminino,Garcia da Praia,MG,35.9,1.46,16.8,120/80,186.0,,Obesidade
+405,Larissa Cassiano,89,M,Vieira da Prata,PA,69.7,1.95,18.3,13x8,,,Hipertensão
+406,Antony Albuquerque,32,f,Dias,SC,122.0,1.48,55.7,,,,Diabetes
+407,Ana Lívia Carvalho,12,Masculino,da Cunha das Pedras,MS,104.9,1.54,44.2,110/70,,202.0,
+408,Levi Fonseca,15,m,Caldeira de Pires,PE,"85,5",1.59,33.8,140/90,73.0,148.0,
+409,Vinícius Ferreira,74,M,Gonçalves,DF,76.6,1.56,31.5,120/80,,296.0,Obesidade
+410,Brenda Cardoso,87,Masculino,Caldeira da Praia,PE,70.5,2.03,17.1,,75.0,211.0,
+411,Aurora Souza,40,Masculino,Vieira,BA,117.8,1.89,33.0,110/70,247.0,,Obesidade
+412,Thomas Rios,90,f,Aparecida do Campo,ES,93.7,1.75,30.6,110/70,108.0,,Obesidade
+413,Luiza Fonseca,70,F,Machado do Norte,GO,42.2,1.5,18.8,140/90,,236.0,
+414,Maria Luiza Nunes,79,m,Vargas Verde,PB,116.5,1.56,47.9,,,,Pré-diabetes
+415,Sr. Davi Miguel Ribeiro,41,M,Barros do Oeste,PE,45.1,1.83,13.5,120/80,93.0,128.0,Hipertensão
+416,Ana Beatriz Dias,49,Feminino,Ribeiro Alegre,DF,"86,4",1.81,26.4,12x8,125.0,213.0,Pré-diabetes
+417,Caleb Cavalcanti,83,f,Nogueira,ES,132.5,1.94,35.2,110/70,223.0,,Obesidade
+418,Maria Vitória Castro,67,M,Sampaio,SC,112.1,1.94,29.8,120/80,115.0,145.0,Pré-diabetes
+419,Lívia Albuquerque,72,Feminino,Pires,AM,134.5,1.76,43.4,12x8,166.0,,
+420,Nathan Pimenta,21,F,Aparecida,AC,92.7,1.73,31.0,,,,Pré-diabetes
+421,Yuri Pinto,81,f,Vasconcelos de Camargo,SE,121.7,1.61,47.0,13x8,204.0,,Obesidade
+422,Sra. Hellena Vargas,92,M,Jesus de Fogaça,CE,138.2,1.79,43.1,12x8,,,Diabetes
+423,Maria Helena Vasconcelos,88,m,Souza da Serra,PR,131.5,1.73,43.9,12x8,206.0,144.0,Saudável
+424,Henry Souza,74,F,Novais de Cardoso,ES,59.5,1.93,16.0,120/80,,265.0,
+425,Srta. Aurora da Paz,62,Feminino,Viana,AP,108.8,1.93,29.2,120/80,,,Hipertensão
+426,Davi Monteiro,55,f,Azevedo das Flores,SP,132.7,1.48,60.6,13x8,227.0,,Hipertensão
+427,Srta. Maya da Luz,19,m,Rocha do Norte,TO,87.8,1.54,37.0,120/80,,234.0,Diabetes
+428,Kaique Campos,43,M,Pires,MA,85.0,1.88,24.0,12x8,,,Pré-diabetes
+429,Paulo Guerra,61,Masculino,Viana,BA,55.8,1.66,20.2,12x8,110.0,182.0,Obesidade
+430,Valentim Nunes,11,M,Azevedo,AP,105.5,1.68,37.4,140/90,,208.0,Obesidade
+431,Luana Santos,56,Masculino,da Costa,MA,50.3,1.43,24.6,13x8,,159.0,Hipertensão
+432,Benicio Nascimento,18,m,Vieira,MG,36.4,1.85,10.6,120/80,,240.0,Obesidade
+433,Luiza Cirino,66,m,Jesus de Souza,PE,92.6,1.8,28.6,13x8,237.0,216.0,Obesidade
+434,Clarice Fonseca,79,m,Fogaça Verde,RJ,40.6,1.83,12.1,120/80,,,
+435,Dr. Rafael Sousa,2,m,Vargas,AM,126.1,1.82,38.1,13x8,157.0,,Pré-diabetes
+436,Ravy Mendonça,58,Masculino,Gonçalves de Freitas,PA,"132,3",1.41,66.5,13x8,,,Saudável
+437,Marcela Mendes,45,Feminino,Sá da Mata,AM,66.7,2.05,15.9,12x8,130.0,,Saudável
+438,Thiago Farias,71,m,Alves,BA,58.7,1.62,22.4,110/70,228.0,,Pré-diabetes
+439,Dra. Maria Luiza Sousa,29,f,Garcia do Sul,MG,60.2,1.5,26.8,140/90,,234.0,Diabetes
+440,Dr. Luiz Fernando Aparecida,25,F,Sá,PE,67.4,1.86,19.5,12x8,,317.0,
+441,João Lucas Sousa,71,Masculino,Rodrigues,GO,134.6,1.48,61.4,140/90,97.0,,Saudável
+442,Luiz Henrique Pereira,81,Feminino,Aparecida,GO,63.7,1.91,17.5,120/80,93.0,,Pré-diabetes
+443,Dra. Emanuella Araújo,87,M,da Cunha do Amparo,DF,72.7,1.85,21.2,110/70,,,Diabetes
+444,Otávio Rios,24,F,Leão de Minas,AP,38.4,1.9,10.6,120/80,,176.0,Diabetes
+445,Dr. Lucas Silva,78,f,Abreu,AP,107.2,1.96,27.9,13x8,,318.0,Pré-diabetes
+446,Sr. Vitor Hugo Aragão,78,Feminino,Vasconcelos,ES,95.1,1.75,31.1,,240.0,253.0,Saudável
+447,Pietra Novais,31,Masculino,Cirino,TO,91.5,2.04,22.0,120/80,,252.0,Diabetes
+448,Isabelly Ramos,36,f,da Rosa,GO,52.5,1.59,20.8,120/80,236.0,,Hipertensão
+449,Alexandre Marques,89,Masculino,Sousa,SP,49.2,1.67,17.6,110/70,66.0,236.0,Saudável
+450,Breno Fogaça,91,F,Correia,AM,110.4,1.48,50.4,120/80,,,Hipertensão
+451,Srta. Lunna Macedo,65,Masculino,Gonçalves dos Dourados,AM,134.7,1.65,49.5,110/70,71.0,205.0,Diabetes
+452,Giovanna Guerra,,m,DA MOTA ALEGRE,PI,67.5,1.9,18.7,110/70,133.0,150.0,Diabetes
+453,Aurora Garcia,63,f,Araújo,MT,92.1,1.4,47.0,110/70,120.0,,Saudável
+454,Júlia Jesus,31,Masculino,Ribeiro,SP,64.2,1.81,19.6,13x8,72.0,157.0,
+455,Cecilia Garcia,73,Masculino,Brito,MG,66.3,2.0,16.6,120/80,,165.0,
+456,Sra. Alexia Cardoso,73,Masculino,Silveira,MS,53.6,1.7,18.5,12x8,152.0,,Obesidade
+457,Sr. Yuri Siqueira,54,Masculino,Dias Grande,AL,41.8,1.71,14.3,120/80,,,Pré-diabetes
+458,João Felipe Lima,73,Feminino,Pinto do Amparo,RO,137.8,1.74,45.5,120/80,,,Obesidade
+459,Ana Alves,16,Masculino,Monteiro,PR,94.1,1.74,31.1,,,166.0,
+460,Carlos Eduardo Cassiano,59,Feminino,Ribeiro,PR,118.7,1.88,33.6,13x8,,225.0,Obesidade
+461,Cecilia Casa Grande,81,F,Lima,MG,107.5,1.57,43.6,120/80,,,Hipertensão
+462,Sr. Caleb Sampaio,72,Masculino,Borges,SP,135.8,1.94,36.1,13x8,,,Saudável
+463,Igor Borges,80,f,Teixeira,SP,128.7,1.75,42.0,140/90,,310.0,Pré-diabetes
+464,Dom Azevedo,68,M,da Mota do Oeste,PR,56.9,1.85,16.6,140/90,76.0,191.0,Obesidade
+465,Luiz Fernando Sales,73,Masculino,Sampaio,MG,75.9,1.79,23.7,140/90,,301.0,Obesidade
+466,Pedro Henrique Costela,57,m,Barros de Freitas,RS,"57,7",1.6,22.5,120/80,155.0,319.0,Hipertensão
+467,Ana Clara Oliveira,64,F,Vasconcelos,AP,55.0,2.0,13.8,,,,Diabetes
+468,Isabela Cavalcante,66,Feminino,Rios de Ferreira,RJ,139.2,1.53,59.5,120/80,,302.0,Hipertensão
+469,Ryan Mendes,11,m,Ferreira da Mata,SE,84.0,1.43,41.1,12x8,,,
+470,Sabrina Leão,,Masculino,Sá das Flores,TO,68.5,1.69,24.0,120/80,129.0,,Hipertensão
+471,Maria Laura Oliveira,26,Masculino,Cavalcanti de Melo,BA,71.8,1.61,27.7,13x8,,266.0,Diabetes
+472,Thomas da Rocha,56,M,Sousa,BA,48.7,1.71,16.7,,72.0,218.0,Hipertensão
+473,Murilo Macedo,75,Feminino,Andrade,ES,122.8,1.85,35.9,12x8,,205.0,
+474,Caroline Guerra,59,Masculino,Marques,RO,48.8,1.93,13.1,,179.0,,
+475,Melissa Machado,28,F,Macedo das Flores,MG,125.4,1.8,38.7,140/90,160.0,,Obesidade
+476,Henry Gabriel Cunha,44,f,da Cunha,MA,83.4,1.51,36.6,140/90,214.0,250.0,Saudável
+477,Helena da Cruz,83,M,Cunha,SE,118.2,1.75,38.6,110/70,,181.0,Pré-diabetes
+478,Apollo Abreu,26,Feminino,da Cunha,ES,97.1,1.91,26.6,110/70,,259.0,Diabetes
+479,Vicente Guerra,73,f,da Rocha,AC,47.0,1.79,14.7,140/90,202.0,233.0,Obesidade
+480,João Guilherme das Neves,76,f,Fernandes,SC,69.4,1.82,21.0,120/80,83.0,155.0,Diabetes
+481,Rafael da Costa,78,Masculino,Novaes,SP,82.0,1.53,35.0,140/90,,,Hipertensão
+482,Dr. Marcos Vinicius Cunha,16,m,Porto,PA,41.6,1.99,10.5,120/80,,,Hipertensão
+483,Lorenzo Porto,40,Feminino,Borges do Oeste,SC,75.2,1.65,27.6,12x8,114.0,241.0,Diabetes
+484,Dr. Diogo Lopes,53,F,Pinto de Cavalcante,MS,65.3,1.97,16.8,13x8,94.0,138.0,Diabetes
+485,Fernanda da Cruz,17,M,Montenegro,MS,49.4,1.92,13.4,110/70,,279.0,Saudável
+486,Murilo Barros,45,F,Rocha,RJ,54.5,1.79,17.0,12x8,187.0,,Saudável
+487,Carlos Eduardo Vieira,4,Masculino,Cardoso,PE,85.7,1.64,31.9,12x8,183.0,,Saudável
+488,Maria Cardoso,31,f,Azevedo,AM,"101,2",1.83,30.2,,,276.0,Obesidade
+489,Josué Martins,60,Masculino,Aragão da Mata,TO,112.1,1.67,40.2,140/90,134.0,,
+490,Dr. Joaquim Castro,74,F,Cirino do Sul,MT,95.2,1.83,28.4,140/90,248.0,,Hipertensão
+491,Erick Montenegro,32,F,Pacheco da Prata,GO,99.7,1.58,39.9,140/90,63.0,274.0,Pré-diabetes
+492,Felipe Sampaio,22,m,Câmara,SP,117.2,1.55,48.8,13x8,195.0,207.0,Diabetes
+493,Thiago Rodrigues,52,f,Farias de Minas,RO,60.0,1.69,21.0,,102.0,,Hipertensão
+494,Enzo Gabriel Vasconcelos,21,f,Guerra,AC,76.9,1.6,30.0,,196.0,,Saudável
+495,Sr. Ravy Guerra,36,f,Sousa da Praia,RR,75.1,1.61,29.0,12x8,234.0,,Saudável
+496,Yan Camargo,34,m,Pires de Goiás,ES,119.2,1.57,48.4,12x8,,317.0,
+497,Liz da Mota,86,Feminino,Castro,SP,139.3,1.6,54.4,120/80,232.0,137.0,Saudável
+498,Dante Rezende,28,Feminino,Nunes,SP,64.7,1.53,27.6,120/80,218.0,134.0,Pré-diabetes
+499,Sr. João Gomes,77,F,Costela,MA,74.5,1.9,20.6,,204.0,148.0,Obesidade
+500,Pietra Moreira,58,m,Casa Grande,AL,115.8,1.85,33.8,,,161.0,Obesidade
+501,Maitê Silveira,7,m,Garcia de Lima,AC,135.3,1.57,54.9,110/70,,,Diabetes
+502,Ravi Lucca Farias,55,F,Mendes da Serra,RO,99.5,1.47,46.0,110/70,,146.0,Hipertensão
+503,Luiz Otávio Pimenta,2,f,MARTINS,AM,50.6,1.82,15.3,120/80,,188.0,
+504,Isaque Oliveira,90,f,Cavalcanti de Minas,TO,85.2,1.66,30.9,,77.0,,
+505,Maria Fernanda da Paz,45,m,Alves,PI,106.6,1.66,38.7,,225.0,,Hipertensão
+506,Henrique Pereira,25,F,Nogueira,TO,93.2,2.03,22.6,,,,Hipertensão
+507,Srta. Helena Pires,80,f,Martins,PB,112.2,1.49,50.5,13x8,66.0,,Hipertensão
+508,Lívia Alves,57,M,Mendes do Amparo,PI,38.9,1.44,18.8,,,150.0,
+509,Nicole Moraes,68,F,Silva de Pires,PR,112.8,1.55,47.0,120/80,69.0,245.0,Saudável
+510,Manuela Vargas,83,F,Duarte da Mata,RO,36.5,1.81,11.1,140/90,,276.0,Pré-diabetes
+511,Bryan Cavalcanti,76,Masculino,Silva,SE,58.2,1.92,15.8,110/70,,203.0,
+512,Ana Júlia Fonseca,27,M,Sousa,RN,97.3,1.62,37.1,120/80,130.0,,Diabetes
+513,Maria Barbosa,74,M,DA LUZ,SE,49.0,1.91,13.4,,,319.0,Hipertensão
+514,Yan da Conceição,11,Feminino,Fogaça,GO,103.4,1.98,26.4,110/70,,297.0,Diabetes
+515,Srta. Maria Cecília Siqueira,30,F,Abreu,ES,99.1,1.42,49.1,13x8,,276.0,
+516,Mariana Azevedo,71,F,da Luz do Galho,MT,55.1,2.04,13.2,120/80,,314.0,Saudável
+517,Evelyn Pimenta,24,M,da Mata,MA,118.6,1.85,34.7,110/70,187.0,160.0,Hipertensão
+518,Antônio Novais,42,Masculino,Martins do Campo,PR,119.5,1.89,33.5,120/80,86.0,257.0,Diabetes
+519,Mariah Andrade,30,Feminino,Pires do Amparo,SP,81.7,1.78,25.8,110/70,,178.0,Obesidade
+520,Bernardo Castro,25,f,Aragão Verde,PR,128.6,1.45,61.2,12x8,184.0,231.0,Diabetes
+521,Sarah Novaes,17,f,Sá das Pedras,GO,110.6,1.81,33.8,140/90,,152.0,
+522,Dra. Vitória Câmara,59,f,Camargo,PB,78.9,1.89,22.1,13x8,135.0,283.0,Pré-diabetes
+523,Maria da Conceição,66,f,Novais Alegre,PE,125.5,1.54,52.9,110/70,,,
+524,Ana Laura da Conceição,28,Masculino,Garcia,PR,134.4,1.99,33.9,120/80,166.0,,
+525,Danilo Vargas,61,Feminino,Silva,RO,121.2,1.69,42.4,13x8,81.0,,Diabetes
+526,Ryan Lopes,11,M,Albuquerque do Oeste,PB,85.4,1.6,33.4,,177.0,,Diabetes
+527,Brayan Nascimento,47,Feminino,Lopes,AM,83.8,1.81,25.6,,,,Pré-diabetes
+528,Gabrielly Correia,78,Masculino,Freitas,AP,95.4,1.53,40.8,,,308.0,Pré-diabetes
+529,Ana Carolina Viana,14,f,Fernandes,AL,73.4,1.8,22.7,140/90,153.0,285.0,Pré-diabetes
+530,Emilly Moreira,30,Masculino,Gomes de Jesus,RN,46.9,1.71,16.0,12x8,239.0,312.0,Obesidade
+531,Ana Clara das Neves,35,M,Siqueira de Goiás,RN,41.7,1.62,15.9,110/70,188.0,,Saudável
+532,Maria Azevedo,8,F,Cavalcante de Minas,RN,128.6,1.7,44.5,120/80,160.0,193.0,Hipertensão
+533,Sra. Aurora Rios,19,F,Peixoto,PE,89.7,1.81,27.4,140/90,166.0,,Saudável
+534,Dr. Lucas Brito,8,M,Melo de Siqueira,SC,126.5,1.55,52.7,12x8,,,
+535,Josué Martins,89,Masculino,Fonseca,GO,123.4,1.69,43.2,140/90,205.0,198.0,Obesidade
+536,Joana da Cruz,6,F,Leão,SC,72.1,1.7,24.9,13x8,218.0,,Diabetes
+537,Letícia Correia,85,F,Pacheco das Pedras,PR,51.9,1.48,23.7,140/90,207.0,,Obesidade
+538,Rodrigo Dias,40,m,Pinto,MT,50.5,1.69,17.7,13x8,,151.0,Saudável
+539,Pietra Melo,40,F,da Rocha,PB,35.5,1.88,10.0,12x8,,,Pré-diabetes
+540,Matheus Gomes,56,m,Mendonça de Pastor,ES,107.4,1.88,30.4,120/80,95.0,198.0,Saudável
+541,Srta. Ana da Cruz,41,M,Pinto Alegre,AL,98.9,1.53,42.2,12x8,,170.0,Hipertensão
+542,Júlia Macedo,11,Masculino,Cassiano,PI,76.4,1.72,25.8,12x8,214.0,,Saudável
+543,Josué Nogueira,47,M,Caldeira de Rios,RO,64.9,1.63,24.4,110/70,203.0,,
+544,Vitor Gabriel Souza,93,f,Vasconcelos da Prata,ES,111.5,1.67,40.0,12x8,213.0,156.0,Obesidade
+545,Brenda Cassiano,8,Masculino,Guerra Verde,PB,114.4,1.46,53.7,110/70,,226.0,Pré-diabetes
+546,Maria Cecília Campos,25,F,Rezende Grande,SC,122.4,1.59,48.4,110/70,,,Saudável
+547,Srta. Lara Almeida,0,F,Moraes,ES,62.6,2.02,15.3,,180.0,,Saudável
+548,Davi Luiz Araújo,3,M,Fonseca,PE,115.3,1.72,39.0,120/80,,,Pré-diabetes
+549,Paulo da Rocha,88,M,Caldeira da Prata,RR,74.2,1.88,21.0,120/80,126.0,268.0,Diabetes
+550,Rhavi Almeida,20,M,Moura,MT,63.6,1.67,22.8,140/90,,194.0,Pré-diabetes
+551,Benício Rios,76,F,Pires,PA,92.1,1.97,23.7,,,,Hipertensão
+552,Daniel Cirino,17,Masculino,Monteiro,PI,64.5,1.91,17.7,110/70,147.0,146.0,Diabetes
+553,Heloísa da Costa,71,Masculino,LEÃO,MS,107.4,2.02,26.3,12x8,242.0,,Hipertensão
+554,Sr. Ravi Lucca da Paz,44,m,Castro,BA,107.6,1.49,48.5,110/70,,,Hipertensão
+555,Davi Luiz Novais,,F,Almeida das Pedras,MG,107.2,1.6,41.9,13x8,93.0,228.0,Hipertensão
+556,Manuela Porto,25,M,Silva do Oeste,RR,38.4,1.83,11.5,12x8,,,Hipertensão
+557,Sra. Maria Laura Moraes,15,Masculino,Machado Paulista,AC,56.6,1.99,14.3,13x8,,127.0,Diabetes
+558,Danilo Andrade,44,m,Nogueira,MT,51.9,1.73,17.3,,216.0,249.0,Hipertensão
+559,Vinicius Porto,91,F,Guerra de Viana,AL,136.2,1.51,59.7,12x8,61.0,,Obesidade
+560,Ana Jesus,13,F,da Luz do Norte,AC,122.6,2.04,29.5,110/70,114.0,224.0,Obesidade
+561,Maria Luiza Cavalcanti,46,Feminino,Porto,BA,65.3,1.87,18.7,120/80,,,Obesidade
+562,Dr. Gustavo Cassiano,,F,Moreira da Praia,RN,93.2,1.59,36.9,110/70,108.0,,Diabetes
+563,Alice Novaes,50,f,Farias das Flores,AM,89.9,1.84,26.6,120/80,,222.0,
+564,Enzo Gabriel Gomes,25,m,Rocha de Vasconcelos,AL,56.0,1.95,14.7,110/70,91.0,,Obesidade
+565,Dra. Ana Vitória Lopes,82,f,Casa Grande,DF,72.4,1.83,21.6,110/70,,,Hipertensão
+566,Maria Júlia Araújo,17,M,Pereira,MG,45.5,1.43,22.3,120/80,187.0,,Pré-diabetes
+567,Benjamim da Cunha,12,M,Vasconcelos,RR,104.4,1.74,34.5,110/70,179.0,,Saudável
+568,Maria Júlia da Conceição,69,Masculino,Marques,AM,36.9,1.9,10.2,110/70,,,Saudável
+569,Luísa Vasconcelos,84,m,Gonçalves,CE,127.9,1.51,56.1,110/70,,,Saudável
+570,André da Luz,70,Feminino,Lima de Teixeira,PB,91.6,1.71,31.3,12x8,100.0,,Saudável
+571,Dr. Davi Lucca Cavalcanti,36,m,Peixoto da Serra,PA,41.4,1.78,13.1,13x8,,309.0,
+572,Isaque da Mota,45,f,Siqueira,AC,71.9,1.83,21.5,13x8,,271.0,
+573,Lucas Gabriel da Cruz,2,Masculino,Costela de Silveira,PB,"69,2",1.7,23.9,110/70,,188.0,
+574,Benjamin Santos,73,f,Costa,RS,68.9,1.46,32.3,110/70,85.0,,Pré-diabetes
+575,Ester Borges,38,m,Cavalcanti de Pastor,SP,136.8,1.53,58.4,,79.0,,Hipertensão
+576,Matteo Jesus,79,Feminino,Santos,RO,135.6,1.87,38.8,12x8,,189.0,Pré-diabetes
+577,Apollo Azevedo,9,Feminino,da Conceição,PR,121.5,1.73,40.6,140/90,,,Saudável
+578,Zoe Vargas,70,F,Aragão,ES,127.5,1.81,38.9,12x8,,,Obesidade
+579,Luigi Lopes,55,Masculino,Vieira,MA,111.3,1.44,53.7,13x8,,157.0,Diabetes
+580,Pietro Novaes,52,m,Vargas,RR,125.3,1.99,31.6,,,,
+581,Matteo da Mata,30,M,Fernandes do Galho,SE,50.7,1.42,25.1,140/90,,,Saudável
+582,José Pedro Marques,17,M,da Rocha de Novaes,DF,"62,1",1.92,16.8,,200.0,284.0,
+583,Maria Vitória Nunes,10,m,da Mota,PB,98.2,1.96,25.6,110/70,153.0,221.0,Diabetes
+584,Agatha Ribeiro,66,Feminino,Ribeiro,AM,122.0,2.02,29.9,12x8,,143.0,Pré-diabetes
+585,Sra. Esther Jesus,74,Feminino,da Conceição da Serra,RJ,75.9,1.89,21.2,13x8,168.0,156.0,Diabetes
+586,Srta. Ayla Rodrigues,75,M,Martins,MT,86.5,1.64,32.2,120/80,,241.0,Obesidade
+587,Dante Mendonça,91,m,Oliveira da Prata,PI,121.2,1.41,61.0,12x8,68.0,296.0,Obesidade
+588,Sra. Aurora Novaes,46,Feminino,Pinto de Farias,MS,47.8,1.96,12.4,110/70,159.0,,Obesidade
+589,Josué Oliveira,26,F,Oliveira Alegre,RR,131.2,1.81,40.0,,164.0,190.0,Saudável
+590,João da Mota,91,f,Costela,RR,127.1,1.93,34.1,13x8,,249.0,Obesidade
+591,Dr. Isaque Carvalho,41,f,Sousa de Goiás,PE,108.0,1.9,29.9,,224.0,,
+592,Emanuel Correia,40,Masculino,Duarte de Barros,PR,43.6,1.5,19.4,12x8,242.0,,Obesidade
+593,Théo Moraes,22,Feminino,da Mota dos Dourados,TO,97.3,1.61,37.5,140/90,110.0,,Diabetes
+594,Vitória Aragão,73,F,Mendes da Serra,TO,37.2,1.41,18.7,12x8,225.0,,Diabetes
+595,Théo Camargo,79,f,Santos das Pedras,SE,98.0,1.5,43.6,140/90,103.0,,Saudável
+596,Ana Luiza Pastor,26,F,Azevedo Grande,TO,134.3,1.93,36.1,140/90,,217.0,Saudável
+597,Benjamin Moreira,36,Feminino,da Cruz do Norte,SC,106.1,1.67,38.0,110/70,97.0,,Diabetes
+598,Dr. João Gabriel da Cunha,87,Feminino,Costa,RN,83.1,1.41,41.8,13x8,,295.0,
+599,Maya Cirino,9,M,da Conceição,DF,93.5,1.43,45.7,13x8,,275.0,Hipertensão
+600,Rebeca Silveira,50,Feminino,Gomes das Pedras,SP,73.9,2.03,17.9,12x8,70.0,186.0,Pré-diabetes
+601,Oliver Porto,11,m,Pires,PR,109.6,1.68,38.8,140/90,,131.0,Saudável
+602,Bianca Cardoso,55,m,Pimenta do Campo,SP,129.8,1.57,52.7,140/90,,231.0,Obesidade
+603,Vinícius Cavalcanti,71,Feminino,Vasconcelos,AL,101.8,1.69,35.6,13x8,98.0,178.0,Hipertensão
+604,Luiza Camargo,14,f,Abreu da Serra,PA,39.3,1.63,14.8,,,,Hipertensão
+605,Enzo Macedo,11,F,Silveira de Minas,SP,"126,2",1.52,54.6,13x8,,264.0,Pré-diabetes
+606,Manuela Cardoso,23,f,Mendes,PI,131.6,1.56,54.1,110/70,233.0,204.0,Obesidade
+607,Dra. Yasmin Fonseca,75,M,Rocha das Flores,GO,122.9,1.5,54.6,120/80,,,Pré-diabetes
+608,Valentim Casa Grande,79,f,Vieira,AC,69.1,1.88,19.6,,205.0,174.0,
+609,Srta. Valentina Silva,70,Masculino,Freitas Alegre,SC,75.0,1.66,27.2,13x8,,142.0,Diabetes
+610,Sr. Marcelo Azevedo,83,F,Rocha do Galho,BA,47.7,1.72,16.1,110/70,,295.0,Obesidade
+611,Juan Pacheco,62,f,Rodrigues de Ferreira,PR,128.0,1.71,43.8,12x8,,,Obesidade
+612,Samuel Oliveira,5,Masculino,da Luz Verde,GO,70.9,1.7,24.5,13x8,225.0,246.0,Obesidade
+613,Ana Vitória Barros,38,F,Porto,DF,138.3,1.84,40.8,140/90,,195.0,Pré-diabetes
+614,Dra. Maria Sophia da Costa,,f,Martins de Pires,RR,44.9,1.83,13.4,12x8,,185.0,Pré-diabetes
+615,Sra. Raquel Guerra,23,f,da Costa das Pedras,MA,39.8,1.67,14.3,,,,
+616,Rafaela Rocha,23,F,Rios,AP,"54,4",1.89,15.2,12x8,126.0,231.0,Hipertensão
+617,Sr. Dom Ferreira,58,Feminino,Carvalho de Pereira,AP,77.5,1.83,23.1,,,,
+618,Luna Carvalho,38,M,Mendes da Mata,SE,48.1,1.41,24.2,120/80,64.0,126.0,Saudável
+619,Luiz Miguel Teixeira,80,Masculino,Pacheco de Costela,AM,55.0,1.6,21.5,110/70,,228.0,Hipertensão
+620,Raquel Câmara,62,f,Peixoto,RO,37.1,1.69,13.0,13x8,,,Hipertensão
+621,Erick Correia,55,f,Rios de Cirino,GO,124.1,1.88,35.1,12x8,,,Saudável
+622,Dom Barros,86,f,Aragão,PA,59.4,1.44,28.6,120/80,,261.0,Obesidade
+623,Yan Brito,63,Masculino,Moreira,DF,133.6,1.63,50.3,,171.0,,
+624,Sra. Caroline Caldeira,28,Masculino,Casa Grande de Minas,GO,130.5,1.62,49.7,12x8,,,
+625,Aurora Farias,86,Feminino,Silva Grande,TO,112.1,1.92,30.4,13x8,219.0,192.0,
+626,Dr. Arthur Cavalcante,62,M,Pinto das Flores,RO,118.3,2.01,29.3,110/70,137.0,173.0,Hipertensão
+627,Fernanda Marques,22,Masculino,Mendes,RJ,38.4,1.44,18.5,110/70,89.0,150.0,Saudável
+628,Luiz Henrique Carvalho,5,Masculino,Cavalcante,TO,63.1,1.5,28.0,,191.0,300.0,Saudável
+629,Antony Freitas,13,Masculino,Cavalcante,SE,99.0,1.96,25.8,120/80,203.0,249.0,Diabetes
+630,Jade Cavalcanti,20,Feminino,Borges,PE,65.7,1.69,23.0,12x8,187.0,,Obesidade
+631,Joaquim Moura,53,M,Marques da Mata,RO,60.8,1.93,16.3,140/90,133.0,,Obesidade
+632,Maya Albuquerque,31,F,Vieira de Goiás,PR,114.1,1.74,37.7,13x8,,,Saudável
+633,Cauã Caldeira,3,f,Almeida do Amparo,AC,50.3,1.41,25.3,12x8,77.0,,Saudável
+634,Heloisa Vieira,4,Feminino,Freitas de Goiás,MG,131.9,1.5,58.6,12x8,,,
+635,Stephany Albuquerque,40,m,da Mata,PB,35.8,1.58,14.3,12x8,216.0,,Saudável
+636,Ísis Alves,79,Feminino,Guerra,RJ,81.4,1.62,31.0,,163.0,197.0,Hipertensão
+637,Maria Flor Teixeira,16,Masculino,Machado,MA,"139,2",1.58,55.8,120/80,,,
+638,Letícia Melo,75,m,Oliveira da Prata,RR,60.3,1.9,16.7,,168.0,307.0,Obesidade
+639,Caleb Borges,83,M,Teixeira dos Dourados,DF,82.1,1.77,26.2,120/80,,180.0,Obesidade
+640,Bernardo Machado,73,Feminino,da Cunha da Mata,MA,49.7,1.65,18.3,,123.0,203.0,Obesidade
+641,Sr. Thomas Pereira,52,M,Vasconcelos de Novais,RN,44.7,1.68,15.8,13x8,181.0,234.0,Obesidade
+642,Dra. Manuella Gonçalves,50,m,Brito do Norte,SC,96.4,1.81,29.4,110/70,,,Diabetes
+643,Dr. Joaquim da Mata,16,Feminino,Vargas Paulista,RN,88.9,1.74,29.4,,,241.0,
+644,Léo Moura,15,Masculino,Pereira de Goiás,ES,124.5,1.47,57.6,140/90,,130.0,Hipertensão
+645,Théo Pacheco,62,M,CIRINO,PA,118.1,1.49,53.2,12x8,167.0,,Diabetes
+646,Srta. Maria Helena Aparecida,70,m,Marques das Pedras,MT,42.1,1.43,20.6,110/70,,,Obesidade
+647,Giovanna Correia,77,F,da Conceição,MS,115.0,1.73,38.4,110/70,,,Hipertensão
+648,Maria Cecília Cunha,29,f,Silveira,SC,70.6,1.43,34.5,,,285.0,Diabetes
+649,Antonella Martins,90,m,Andrade,MA,93.9,1.48,42.9,12x8,81.0,278.0,Pré-diabetes
+650,Hellena Freitas,2,M,da Cruz Grande,PI,104.1,1.75,34.0,120/80,130.0,,Hipertensão
+651,Maria Julia Melo,5,f,Leão,MT,125.5,1.42,62.2,110/70,,,Saudável
+652,Marcelo Farias,21,m,Andrade de Goiás,MG,50.1,1.57,20.3,120/80,,224.0,Hipertensão
+653,Melina Fonseca,7,m,Melo Alegre,SC,75.9,1.61,29.3,110/70,,216.0,Hipertensão
+654,Sr. Enzo Gabriel Barros,63,Masculino,Albuquerque,BA,114.0,1.65,41.9,120/80,128.0,,Pré-diabetes
+655,Sra. Júlia Cassiano,29,M,da Cruz da Mata,RR,63.3,2.03,15.4,,85.0,315.0,Obesidade
+656,Sr. Caio Guerra,64,F,Vargas,PE,"117,2",1.49,52.8,12x8,103.0,,Pré-diabetes
+657,Emilly Ramos,79,m,da Rosa,RN,103.6,1.51,45.4,120/80,,,
+658,Miguel Macedo,74,Masculino,Martins da Prata,RS,64.5,1.5,28.7,12x8,204.0,196.0,Saudável
+659,Melina Vieira,35,f,Albuquerque,ES,57.1,1.73,19.1,140/90,,,
+660,Maria Julia Pastor,43,F,Moura de Goiás,MS,83.3,1.79,26.0,120/80,237.0,285.0,Pré-diabetes
+661,Lunna Oliveira,52,Masculino,Sousa,RS,129.0,1.86,37.3,110/70,197.0,286.0,Pré-diabetes
+662,Maria Luiza Santos,86,M,da Luz,TO,72.1,1.93,19.4,12x8,,165.0,Hipertensão
+663,João Vitor Sá,28,Feminino,Borges de Martins,RR,37.1,1.58,14.9,,151.0,,
+664,Gustavo da Mota,4,m,Silva do Norte,DF,86.7,1.86,25.1,12x8,113.0,,Hipertensão
+665,Thales Silva,70,F,Correia das Flores,MG,104.3,1.77,33.3,,214.0,136.0,
+666,Gael Ramos,29,Masculino,da Costa,AC,111.5,1.58,44.7,,,,Hipertensão
+667,Lavínia Gomes,6,m,Vasconcelos do Sul,CE,80.4,2.05,19.1,140/90,,,Pré-diabetes
+668,Laís Correia,35,f,Cavalcanti,PI,90.9,1.61,35.1,110/70,,140.0,
+669,Pietro Novais,31,F,Teixeira dos Dourados,CE,52.3,1.6,20.4,,220.0,,Saudável
+670,Apollo Montenegro,42,m,Cunha do Sul,RR,61.0,1.71,20.9,140/90,,253.0,Hipertensão
+671,Juliana Fonseca,80,f,Machado,MG,95.8,1.46,44.9,120/80,,200.0,Diabetes
+672,Heloísa Caldeira,78,Feminino,Castro,PE,80.3,1.47,37.2,120/80,203.0,,Saudável
+673,Sra. Ayla Costa,76,Feminino,Lima do Galho,PI,100.5,1.69,35.2,110/70,169.0,206.0,Saudável
+674,Léo Nogueira,1,Masculino,Cardoso,MG,109.9,1.79,34.3,13x8,206.0,,Obesidade
+675,Yasmin da Mota,31,F,Andrade,PE,118.7,1.44,57.2,140/90,,,Obesidade
+676,Vicente Farias,60,m,da Cruz,PR,98.3,1.59,38.9,120/80,192.0,134.0,Pré-diabetes
+677,Arthur Miguel Aparecida,44,F,Aparecida,PI,137.5,1.82,41.5,13x8,,,
+678,Oliver Albuquerque,74,Masculino,Pereira,AL,136.1,1.8,42.0,110/70,144.0,,Hipertensão
+679,Ana Liz Gomes,88,F,COSTELA DE MACHADO,MS,84.0,1.54,35.4,110/70,,,Diabetes
+680,Srta. Mariah Rezende,1,M,Aragão,RO,72.6,1.76,23.4,13x8,,,Hipertensão
+681,Ana Liz Nascimento,28,m,das Neves,RS,110.5,1.62,42.1,12x8,122.0,170.0,Diabetes
+682,Olivia das Neves,86,F,Cirino,AP,74.8,1.91,20.5,120/80,146.0,,Diabetes
+683,Gabriela Machado,67,Masculino,da Cruz,PA,127.6,1.97,32.9,120/80,90.0,153.0,Diabetes
+684,Enzo Moraes,54,Feminino,Almeida,PE,60.7,1.43,29.7,12x8,210.0,,Diabetes
+685,Murilo Almeida,16,Masculino,da Cruz,BA,136.7,1.98,34.9,13x8,246.0,,
+686,Ana Lívia Andrade,82,Masculino,Fernandes,ES,74.3,1.74,24.5,13x8,,,
+687,Nina Souza,81,Masculino,da Paz da Prata,MG,103.2,1.53,44.1,13x8,175.0,221.0,Obesidade
+688,Dra. Elisa Teixeira,47,m,Costa do Norte,AP,92.8,1.49,41.8,120/80,,,Diabetes
+689,Raul Siqueira,54,f,Ribeiro,PB,84.1,1.67,30.2,110/70,,217.0,Diabetes
+690,Benício Nunes,10,m,Câmara,AM,123.5,1.73,41.3,,,178.0,Hipertensão
+691,Arthur Sampaio,25,Feminino,SIQUEIRA DO NORTE,AC,69.6,1.6,27.2,,130.0,300.0,
+692,Sr. Otávio Siqueira,38,m,Nunes,AP,121.3,1.91,33.3,110/70,163.0,240.0,Saudável
+693,Davi Lucas Aragão,29,Masculino,Aragão do Oeste,RJ,96.6,1.76,31.2,110/70,,207.0,Obesidade
+694,Isabel da Cruz,53,F,Oliveira de Almeida,PB,"81,1",1.95,21.3,120/80,155.0,267.0,Obesidade
+695,Maria Vitória da Paz,45,m,Alves,SE,58.7,1.68,20.8,110/70,,203.0,Pré-diabetes
+696,Carolina Silva,42,Masculino,Brito,AL,101.1,1.79,31.6,12x8,,217.0,Saudável
+697,Luiza Cardoso,42,Masculino,Almeida,TO,136.0,1.82,41.1,140/90,83.0,146.0,Hipertensão
+698,Maria Flor Andrade,25,M,Carvalho,AM,130.7,1.65,48.0,13x8,,288.0,Saudável
+699,Cecilia Aparecida,52,f,Marques do Norte,AP,51.5,1.47,23.8,12x8,,310.0,Saudável
+700,Srta. Ana Clara Pastor,26,m,Dias,PA,80.4,1.86,23.2,110/70,,270.0,Pré-diabetes
+701,Diogo Guerra,18,f,Brito,BA,41.7,1.66,15.1,13x8,,,Saudável
+702,Zoe Leão,82,f,da Luz,AC,71.4,1.95,18.8,140/90,160.0,226.0,Diabetes
+703,Isabelly Pinto,84,F,Vieira,AM,108.3,1.46,50.8,,71.0,,
+704,Kaique Mendes,92,Feminino,Sá,PI,129.7,1.99,32.8,110/70,201.0,214.0,Hipertensão
+705,Rafaela Machado,21,m,Abreu Alegre,ES,56.8,1.43,27.8,120/80,,,
+706,Diego da Rosa,32,M,Ramos da Mata,ES,109.5,1.49,49.3,,,238.0,Hipertensão
+707,Sr. Leandro Costa,17,f,Correia da Serra,PA,121.1,1.95,31.8,13x8,64.0,,Hipertensão
+708,Maria Vitória Fonseca,1,Feminino,Lima dos Dourados,CE,63.7,1.69,22.3,13x8,115.0,292.0,Saudável
+709,Dra. Isabel da Mata,,Feminino,Porto,PE,110.2,1.98,28.1,110/70,,233.0,Pré-diabetes
+710,José Barros,31,m,Teixeira de Minas,SE,130.4,1.53,55.7,120/80,167.0,,Diabetes
+711,Srta. Larissa Sampaio,12,Feminino,Lima da Prata,SP,52.6,1.51,23.1,110/70,191.0,,Pré-diabetes
+712,Emanuella Leão,50,f,Leão,SE,47.7,1.54,20.1,140/90,142.0,,
+713,Bento Monteiro,8,Feminino,da Mata,RJ,120.6,1.82,36.4,140/90,71.0,,Obesidade
+714,Srta. Maria Laura Fonseca,91,Masculino,Pacheco,SC,118.1,2.0,29.5,12x8,,,
+715,Ravy Cavalcante,88,F,Jesus das Flores,SE,69.9,1.81,21.3,,,,Hipertensão
+716,Isaac Fogaça,81,Feminino,Correia dos Dourados,PE,59.4,1.78,18.7,120/80,119.0,277.0,Obesidade
+717,Théo Cunha,10,M,Pacheco Paulista,PA,49.4,1.72,16.7,13x8,,172.0,Diabetes
+718,Maria Alice Souza,94,m,Souza da Mata,AL,49.1,1.61,18.9,120/80,,,Hipertensão
+719,Srta. Maria Júlia Albuquerque,26,Masculino,GOMES,MS,40.7,2.0,10.2,13x8,235.0,,Pré-diabetes
+720,João Guilherme Freitas,62,M,Fernandes,MG,135.1,1.43,66.1,13x8,112.0,143.0,Pré-diabetes
+721,Ana Cecília da Rocha,64,M,Melo de Guerra,RO,79.8,1.7,27.6,13x8,244.0,,Diabetes
+722,Vitor Hugo Rocha,81,F,Montenegro,CE,63.5,1.91,17.4,120/80,,216.0,Saudável
+723,Thomas Pires,19,f,Macedo,GO,37.1,1.65,13.6,120/80,136.0,261.0,Obesidade
+724,Maria Laura Carvalho,,Masculino,da Cunha,SE,85.5,1.62,32.6,,180.0,159.0,Hipertensão
+725,Natália Martins,62,f,Macedo de da Paz,ES,132.2,2.01,32.7,,,,
+726,Maria Helena Pinto,15,f,Leão Verde,MG,132.9,1.51,58.3,110/70,,,
+727,Theo Vasconcelos,54,Feminino,Mendonça,SP,60.9,1.71,20.8,140/90,221.0,298.0,Obesidade
+728,Sophie Sousa,31,Masculino,Duarte,MG,95.7,1.83,28.6,13x8,63.0,317.0,
+729,Brayan Sá,10,Masculino,Rocha das Flores,RR,130.5,1.97,33.6,13x8,,,Pré-diabetes
+730,Hadassa da Cruz,39,Feminino,Novaes,RO,78.2,1.97,20.1,,82.0,,Diabetes
+731,Luiz Gustavo Almeida,89,m,Rocha,AP,35.7,1.51,15.7,110/70,60.0,,Pré-diabetes
+732,Maria Luísa Lima,22,m,Leão do Norte,RS,54.6,1.49,24.6,110/70,106.0,235.0,Diabetes
+733,Antony Dias,24,m,Vargas,MT,138.2,1.97,35.6,110/70,220.0,282.0,Hipertensão
+734,Henry Cardoso,43,M,Pacheco do Galho,PB,96.5,1.71,33.0,,85.0,,Hipertensão
+735,Maria Liz Azevedo,27,Masculino,Pastor de Viana,ES,118.1,1.64,43.9,12x8,,,Pré-diabetes
+736,Antony Sales,,F,Moraes,RJ,133.8,1.83,40.0,110/70,216.0,,Hipertensão
+737,Ísis Campos,17,M,Novais,RS,98.2,1.96,25.6,140/90,239.0,,Pré-diabetes
+738,Isabella Moura,84,F,Vieira do Norte,GO,35.3,1.81,10.8,140/90,,,
+739,Beatriz Monteiro,78,M,Andrade,SE,71.6,2.01,17.7,110/70,228.0,,Obesidade
+740,Luiz Otávio Campos,73,Feminino,Dias do Norte,GO,88.0,1.48,40.2,120/80,,,Hipertensão
+741,Dra. Mariane Ferreira,21,Feminino,da Cunha de Albuquerque,SC,108.5,1.47,50.2,,67.0,,Obesidade
+742,Ana Julia Gonçalves,85,M,Moreira,MA,104.9,2.0,26.2,,,,Diabetes
+743,Dr. Gael Henrique Costela,82,m,Abreu de Camargo,SE,74.6,1.87,21.3,,,,Diabetes
+744,Giovanna Cirino,11,m,Brito,MG,"112,8",2.01,27.9,,,,Saudável
+745,Maria Júlia Teixeira,68,F,Barbosa do Campo,RN,123.9,2.04,29.8,140/90,153.0,253.0,Hipertensão
+746,Aylla da Mata,18,m,Brito de Casa Grande,DF,122.9,1.72,41.5,110/70,,157.0,Pré-diabetes
+747,Pietra Rios,35,Feminino,Costa,MT,95.3,1.81,29.1,13x8,,,Hipertensão
+748,Igor Albuquerque,26,Feminino,Vargas,TO,133.1,1.55,55.4,,73.0,,Obesidade
+749,Luiz Felipe da Rosa,2,Masculino,Cunha,PA,76.2,1.67,27.3,110/70,,220.0,Pré-diabetes
+750,Sr. Enzo Gonçalves,89,Masculino,Fernandes,MA,76.3,1.49,34.4,12x8,,237.0,Pré-diabetes
+751,Isaque Gomes,18,F,Freitas,TO,57.9,1.89,16.2,,226.0,212.0,
+752,Alexia da Rocha,54,Feminino,Melo,CE,123.4,2.0,30.9,120/80,,165.0,Hipertensão
+753,Sra. Emilly Fernandes,19,Feminino,Teixeira da Praia,PE,110.9,1.56,45.6,120/80,,,
+754,Emanuelly Pires,,Feminino,da Paz,TO,104.1,1.91,28.5,,,,Obesidade
+755,Antony da Cunha,82,Feminino,da Costa,SP,130.4,1.55,54.3,12x8,,190.0,Pré-diabetes
+756,Lavínia Costa,55,m,Mendonça,BA,95.0,1.46,44.6,120/80,242.0,223.0,Saudável
+757,Murilo da Conceição,62,M,Rocha,RJ,89.5,1.78,28.2,,226.0,312.0,
+758,Gustavo Carvalho,23,M,Ferreira,AM,93.2,1.92,25.3,120/80,70.0,267.0,
+759,Gael Henrique Rezende,4,M,Vasconcelos,TO,137.9,1.73,46.1,140/90,199.0,228.0,Diabetes
+760,Nicole Sales,37,Feminino,Caldeira da Prata,SC,91.1,1.49,41.0,110/70,,,Pré-diabetes
+761,Ayla Lima,5,F,Pastor,ES,38.9,1.49,17.5,13x8,94.0,,Obesidade
+762,Mathias Campos,32,m,Ramos,MA,75.1,1.99,19.0,110/70,176.0,,
+763,Dr. Lorenzo Novais,34,Feminino,Barbosa,PE,108.2,1.53,46.2,140/90,204.0,227.0,Obesidade
+764,Leandro Novaes,77,F,Casa Grande,MG,43.1,1.48,19.7,120/80,,,
+765,Enzo Gabriel Siqueira,18,F,Porto Grande,GO,63.7,1.46,29.9,13x8,156.0,320.0,Diabetes
+766,Lucas Gabriel Ramos,62,M,Nascimento de Rios,TO,90.5,1.86,26.2,140/90,,275.0,Hipertensão
+767,Diogo Pastor,,Feminino,da Costa,SC,106.2,1.91,29.1,12x8,,242.0,Obesidade
+768,Mathias Siqueira,16,F,Martins,BA,74.8,1.88,21.2,120/80,,301.0,
+769,Bruno Cardoso,45,f,Peixoto,MA,87.7,1.58,35.1,110/70,193.0,198.0,Obesidade
+770,Sr. Ryan Novais,10,M,COSTELA,CE,111.6,2.01,27.6,13x8,207.0,,Pré-diabetes
+771,Vitor Hugo Vargas,54,Feminino,MELO,RJ,88.4,1.88,25.0,110/70,187.0,223.0,Pré-diabetes
+772,Brayan Rios,54,Feminino,Melo da Praia,AM,91.1,1.62,34.7,,229.0,,Diabetes
+773,Sabrina Câmara,28,F,da Cunha do Campo,PR,42.9,1.95,11.3,12x8,150.0,,Saudável
+774,Carlos Eduardo Fernandes,86,F,Gonçalves de Rezende,ES,122.3,1.95,32.2,120/80,,,Obesidade
+775,Vinícius Aragão,27,m,Aragão da Serra,MA,132.6,2.02,32.5,12x8,,,Hipertensão
+776,Ana Clara Cassiano,45,M,Almeida,RR,35.5,1.98,9.1,13x8,,122.0,Saudável
+777,Sra. Marina Dias,19,f,Pastor,RN,48.0,1.72,16.2,13x8,,,Saudável
+778,Heitor Marques,68,m,Costela de Goiás,AM,46.4,1.69,16.2,110/70,101.0,,Hipertensão
+779,Dante Martins,24,m,Sousa,PA,39.2,1.66,14.2,,144.0,161.0,Saudável
+780,Breno Abreu,62,Masculino,Araújo,BA,87.0,1.84,25.7,13x8,,,Diabetes
+781,Sra. Manuela da Rocha,19,m,Porto de Peixoto,RR,87.5,1.9,24.2,13x8,,229.0,Saudável
+782,Maria Eduarda Cavalcanti,54,F,Alves da Prata,PR,99.8,1.87,28.5,13x8,,316.0,Obesidade
+783,Thales Costela,25,f,Garcia,ES,109.2,1.93,29.3,,246.0,168.0,Diabetes
+784,Olivia Mendes,24,F,da Mota da Mata,DF,79.8,1.8,24.6,120/80,,,
+785,Srta. Alice Borges,61,M,da Costa de Pacheco,MG,88.5,1.82,26.7,140/90,,,Obesidade
+786,Sra. Aylla Silva,23,M,Martins Grande,MG,35.1,1.83,10.5,140/90,,,Pré-diabetes
+787,Henrique da Mota,46,m,Fernandes de Guerra,AM,67.0,1.46,31.4,120/80,234.0,,
+788,Stephany Pacheco,77,m,Aparecida de Pimenta,AC,60.0,1.58,24.0,12x8,158.0,147.0,
+789,Bella Andrade,83,F,Cunha da Prata,RO,55.3,1.69,19.4,120/80,,,Diabetes
+790,Clara Silveira,53,Masculino,da Paz,PI,109.7,1.98,28.0,12x8,,234.0,Saudável
+791,Emanuel Barbosa,64,M,da Paz,PE,52.5,1.58,21.0,13x8,134.0,264.0,
+792,Theodoro Casa Grande,68,Masculino,Peixoto de Sales,MG,137.0,1.51,60.1,12x8,,,Diabetes
+793,Antony Lopes,89,M,Cardoso,PR,127.3,1.91,34.9,110/70,,197.0,Obesidade
+794,Dra. Ísis Ferreira,5,Masculino,Pires,RJ,60.0,1.43,29.3,13x8,131.0,189.0,
+795,Bruna Sousa,14,M,Pimenta do Amparo,DF,103.1,1.81,31.5,140/90,143.0,,
+796,Lavínia Aragão,7,Feminino,Fonseca,RS,120.7,1.94,32.1,13x8,,,Hipertensão
+797,Sr. Henrique da Mata,74,M,Melo,AM,110.9,1.85,32.4,,125.0,233.0,Obesidade
+798,Vitor Ferreira,50,F,Aragão de Lima,PI,81.8,1.87,23.4,110/70,154.0,242.0,Saudável
+799,Isabela Silveira,24,Masculino,Oliveira de Porto,AC,86.5,1.87,24.7,,132.0,199.0,Diabetes
+800,Leonardo Duarte,18,M,Rios,PA,"79,8",1.7,27.6,,163.0,305.0,
+801,Gabriel Pimenta,49,M,VIEIRA DO NORTE,RO,46.6,1.41,23.4,,71.0,183.0,Obesidade
+802,Isabella Montenegro,1,M,Rios,MT,91.9,1.93,24.7,,81.0,,Pré-diabetes
+803,Luiz Miguel Viana,61,F,Fernandes da Praia,PA,60.6,1.75,19.8,140/90,220.0,125.0,Hipertensão
+804,Luiz Otávio Câmara,53,F,da Costa do Oeste,PR,35.1,1.55,14.6,13x8,,,
+805,Maysa Nascimento,87,Feminino,da Rosa da Prata,RJ,121.4,1.47,56.2,13x8,88.0,,Obesidade
+806,Eduardo Rocha,10,M,Moura de Cirino,DF,98.5,1.52,42.6,12x8,145.0,,Diabetes
+807,Emanuelly Machado,36,m,Rocha,CE,126.9,1.58,50.8,110/70,,187.0,Hipertensão
+808,Caleb da Cruz,18,m,Pacheco de Novais,ES,50.5,1.69,17.7,110/70,77.0,,
+809,Isaac da Costa,23,f,Silva de Marques,MG,72.0,1.72,24.3,110/70,,,Diabetes
+810,Cecilia Ferreira,53,Masculino,Montenegro,PE,87.2,1.75,28.5,12x8,197.0,218.0,Pré-diabetes
+811,Sra. Catarina Rios,95,F,Guerra da Serra,RS,108.8,1.55,45.3,120/80,112.0,,Diabetes
+812,Vitor Hugo Vieira,17,m,Barbosa da Prata,AM,83.3,1.94,22.1,12x8,167.0,173.0,Hipertensão
+813,Gabrielly Campos,18,f,Silveira Paulista,RS,112.0,1.85,32.7,110/70,155.0,299.0,
+814,Sr. Otávio Vargas,20,M,Barbosa,PB,50.4,1.49,22.7,13x8,79.0,,Diabetes
+815,Luiz Henrique Caldeira,67,Feminino,Costela,AL,134.6,1.71,46.0,,,320.0,Obesidade
+816,Mirella da Luz,77,F,Vasconcelos,MA,87.8,1.41,44.2,110/70,,,Pré-diabetes
+817,Milena Ramos,20,m,Aparecida,GO,137.2,1.74,45.3,13x8,250.0,222.0,Diabetes
+818,Luan Cirino,77,M,Moura,PI,120.7,1.7,41.8,140/90,,217.0,Hipertensão
+819,Dra. Lavínia Ferreira,13,M,RAMOS VERDE,GO,43.2,1.79,13.5,140/90,67.0,192.0,Pré-diabetes
+820,Luna Santos,39,F,Caldeira,MA,92.9,1.81,28.4,120/80,,141.0,Pré-diabetes
+821,Olivia Souza,11,m,da Conceição de das Neves,SC,35.9,1.63,13.5,140/90,161.0,,
+822,Catarina Leão,42,f,Pires da Praia,TO,129.1,1.73,43.1,12x8,98.0,,Saudável
+823,João Pedro Aragão,19,Feminino,da Mata das Flores,RO,83.6,1.98,21.3,120/80,243.0,175.0,
+824,Sra. Hadassa Ferreira,93,Masculino,Aparecida,GO,103.4,2.0,25.9,140/90,174.0,,Obesidade
+825,Ana Liz Nogueira,91,Feminino,Moraes de da Luz,PR,75.7,1.54,31.9,12x8,215.0,,Hipertensão
+826,Rhavi Gomes,70,M,Marques do Amparo,RJ,87.4,1.7,30.2,13x8,135.0,,Pré-diabetes
+827,Beatriz Dias,58,m,Dias,BA,138.5,2.04,33.3,110/70,226.0,,Hipertensão
+828,Dra. Lara Mendonça,79,Feminino,Pimenta,AM,48.5,1.64,18.0,12x8,,,Pré-diabetes
+829,Arthur Pinto,5,Masculino,Pinto,PR,137.6,1.44,66.4,13x8,239.0,159.0,Obesidade
+830,Sabrina Carvalho,28,f,Camargo Verde,MT,126.8,1.83,37.9,140/90,,,Hipertensão
+831,Caleb Moura,50,f,Mendes,AP,55.9,1.61,21.6,140/90,,,Hipertensão
+832,Maria Cecília Aragão,60,F,Martins,PE,102.2,1.61,39.4,120/80,,,Saudável
+833,Evelyn Souza,2,Feminino,da Costa do Oeste,ES,79.4,1.56,32.6,13x8,81.0,,Saudável
+834,Lucca Jesus,53,Masculino,Freitas das Pedras,RR,57.5,1.98,14.7,13x8,73.0,,Obesidade
+835,Luiz Fernando Camargo,60,Masculino,Fernandes,PB,107.3,1.5,47.7,,,,Hipertensão
+836,Gustavo Henrique Pires,92,Feminino,Cardoso do Sul,MG,95.7,1.49,43.1,,,123.0,Saudável
+837,Sophia Peixoto,86,f,Santos,SP,62.6,1.87,17.9,110/70,,283.0,Hipertensão
+838,Isabella Lopes,69,F,Aragão de Carvalho,PE,98.1,1.54,41.4,13x8,108.0,,Hipertensão
+839,Carlos Eduardo Albuquerque,15,Feminino,da Rosa da Praia,RR,87.4,2.05,20.8,110/70,,,Pré-diabetes
+840,Dr. Levi Pereira,58,f,Viana,MG,74.2,1.76,24.0,13x8,,,
+841,Rafaela Azevedo,79,M,da Rosa,RR,139.5,1.92,37.8,120/80,82.0,,Hipertensão
+842,Eduarda Aragão,12,Feminino,Aparecida,AL,81.6,1.78,25.8,120/80,,227.0,Diabetes
+843,Mateus Silva,60,M,Gomes da Serra,CE,71.8,1.92,19.5,110/70,,,Diabetes
+844,Maria Júlia Rios,39,f,Vieira do Sul,SC,105.7,1.4,53.9,110/70,68.0,126.0,Obesidade
+845,Bryan Barros,40,m,Fonseca,AM,52.9,1.77,16.9,110/70,,,Hipertensão
+846,Bárbara Oliveira,81,f,da Cruz de Minas,SP,137.6,1.51,60.3,140/90,192.0,231.0,Hipertensão
+847,André Jesus,73,f,Barbosa da Mata,RJ,123.5,1.81,37.7,140/90,201.0,202.0,Hipertensão
+848,Alexia Moraes,75,F,Castro Alegre,PR,37.9,1.86,11.0,120/80,,126.0,Saudável
+849,Daniela Novaes,83,F,Abreu de Andrade,PR,66.2,1.75,21.6,13x8,,,
+850,Cauê Borges,2,Feminino,Cavalcante Paulista,BA,138.4,1.96,36.0,120/80,177.0,147.0,Obesidade
+851,Samuel Peixoto,46,F,Pereira,AL,76.0,1.72,25.7,120/80,165.0,244.0,Diabetes
+852,Sr. Juan Barros,57,F,Campos Paulista,RN,53.9,1.41,27.1,13x8,228.0,,Obesidade
+853,Sr. João Cassiano,20,Masculino,Monteiro das Flores,BA,112.9,2.0,28.2,13x8,215.0,257.0,Pré-diabetes
+854,Srta. Catarina Campos,14,F,Melo dos Dourados,MT,38.1,1.49,17.2,120/80,246.0,,Saudável
+855,Stephany Duarte,83,m,Castro de Dias,RO,84.0,1.93,22.6,110/70,,,Diabetes
+856,Fernando Fernandes,50,M,Cavalcanti do Sul,MS,96.3,1.9,26.7,140/90,102.0,,Saudável
+857,Ana Laura Mendes,40,Masculino,Albuquerque,BA,46.3,1.65,17.0,13x8,,215.0,Saudável
+858,Rodrigo Camargo,75,f,Azevedo do Galho,AC,65.8,1.94,17.5,,,221.0,Hipertensão
+859,Maria Laura Sá,45,F,Silva do Galho,RJ,42.6,1.83,12.7,140/90,,151.0,Obesidade
+860,Eduardo Teixeira,72,m,Novais,SC,129.4,1.77,41.3,110/70,132.0,254.0,Hipertensão
+861,Heloisa Gonçalves,85,M,da Rocha,SC,95.3,1.82,28.8,,,201.0,Diabetes
+862,Jade Aragão,,f,Gonçalves de Minas,AP,47.5,1.69,16.6,12x8,,180.0,Obesidade
+863,Luiza Dias,0,f,Nascimento de Silva,MT,64.9,1.95,17.1,110/70,69.0,206.0,Hipertensão
+864,Pietro Casa Grande,38,m,Costela de Goiás,SE,68.3,1.62,26.0,120/80,,246.0,Saudável
+865,Valentim da Mota,82,M,Azevedo,TO,123.5,2.01,30.6,120/80,67.0,132.0,Diabetes
+866,Brayan Cavalcante,55,F,Farias de Minas,MG,52.9,1.52,22.9,140/90,197.0,296.0,Obesidade
+867,João Lima,38,M,Nascimento,AM,62.7,1.85,18.3,110/70,129.0,,Hipertensão
+868,Isis Sá,52,Feminino,Pereira,SP,81.9,1.48,37.4,12x8,,,Obesidade
+869,Daniel da Luz,33,m,SOUSA,MT,109.7,1.63,41.3,13x8,228.0,297.0,Hipertensão
+870,Isabelly Pereira,27,f,Farias Grande,SP,120.9,1.52,52.3,120/80,147.0,,Obesidade
+871,Dr. Luiz Henrique da Mata,13,F,Aparecida,RO,58.0,1.64,21.6,110/70,218.0,,Diabetes
+872,Lucas Lima,73,Feminino,Gonçalves de Dias,GO,"45,7",1.7,15.8,120/80,250.0,181.0,Saudável
+873,Eduarda da Conceição,57,m,Cunha,MA,62.9,2.0,15.7,120/80,,174.0,Saudável
+874,Samuel da Conceição,34,m,Ribeiro das Flores,MS,45.3,1.82,13.7,,168.0,195.0,Saudável
+875,Luara Nascimento,66,f,Porto Paulista,RR,46.5,1.43,22.7,13x8,88.0,149.0,Hipertensão
+876,Vinicius Moreira,35,F,Abreu da Mata,PI,127.7,1.85,37.3,110/70,,145.0,
+877,Fernando Novaes,21,F,Silveira de Minas,RS,71.5,1.59,28.3,12x8,133.0,144.0,Pré-diabetes
+878,Bella Cunha,88,F,Cardoso,AC,52.9,1.84,15.6,13x8,,236.0,Hipertensão
+879,Bárbara Viana,33,M,Moraes,PB,52.9,1.89,14.8,120/80,,241.0,Saudável
+880,Sra. Fernanda Siqueira,2,Masculino,Rodrigues Grande,PB,106.4,1.59,42.1,13x8,194.0,313.0,Hipertensão
+881,Isabelly Dias,62,Feminino,Casa Grande do Galho,BA,71.8,1.75,23.4,,,,Hipertensão
+882,Alícia Ferreira,66,Feminino,Alves,RR,125.0,1.99,31.6,12x8,183.0,189.0,Diabetes
+883,Sr. Ryan Araújo,18,m,Pires,AP,87.3,1.56,35.9,,,212.0,
+884,Sra. Eloá Barbosa,13,m,Castro do Norte,CE,127.1,1.84,37.5,110/70,194.0,,Obesidade
+885,Bella Nogueira,39,F,Rocha,TO,39.3,1.74,13.0,140/90,216.0,,Pré-diabetes
+886,Sr. Dom Silva,1,f,Sampaio do Amparo,CE,132.4,1.5,58.8,,,279.0,Obesidade
+887,Benjamim Nunes,58,M,Rocha,PB,57.8,1.94,15.4,120/80,,198.0,Saudável
+888,Cauê Mendonça,17,m,da Luz,AC,127.3,1.91,34.9,12x8,230.0,,Diabetes
+889,Dr. João Miguel Pastor,10,m,Martins,TO,58.0,1.71,19.8,140/90,,,Hipertensão
+890,Anthony Garcia,22,Masculino,Martins,RR,80.8,1.97,20.8,12x8,95.0,184.0,Saudável
+891,Maitê Caldeira,72,Feminino,Cardoso,GO,83.4,1.52,36.1,110/70,84.0,,
+892,Elisa Albuquerque,59,m,Teixeira,BA,79.9,1.67,28.6,110/70,178.0,263.0,Saudável
+893,Laís Barros,31,Masculino,Ferreira de Araújo,PI,"88,8",1.48,40.5,12x8,,,Diabetes
+894,José Miguel Leão,66,f,Cunha do Galho,RS,123.1,1.46,57.8,140/90,226.0,205.0,Obesidade
+895,Júlia Sousa,15,Feminino,Mendonça da Prata,TO,96.4,1.73,32.2,,73.0,252.0,Pré-diabetes
+896,Luiz Otávio da Luz,86,Feminino,Fernandes,AC,124.5,1.6,48.6,140/90,244.0,244.0,Hipertensão
+897,Sr. Gustavo Aparecida,66,M,Cavalcanti de Minas,ES,61.0,1.47,28.2,120/80,,220.0,Hipertensão
+898,Isabella Almeida,,Masculino,Cassiano Paulista,RO,62.3,1.8,19.2,110/70,228.0,230.0,
+899,Augusto Marques,30,F,da Costa Paulista,AM,88.7,1.85,25.9,13x8,,,
+900,Isis Araújo,35,f,LEÃO,MA,75.5,1.92,20.5,110/70,,157.0,Obesidade
+901,Anna Liz Cassiano,38,M,SALES,PE,102.7,1.98,26.2,12x8,173.0,210.0,Saudável
+902,Carolina da Luz,20,m,Vieira do Norte,DF,87.6,1.96,22.8,13x8,,251.0,Diabetes
+903,Ana Lívia Novaes,43,f,Silva,ES,110.1,1.91,30.2,140/90,,220.0,
+904,Rodrigo Sá,23,Masculino,Silva,RR,109.4,1.73,36.6,,,,Pré-diabetes
+905,Dra. Maria Laura da Mata,51,M,Pimenta,RJ,39.7,1.95,10.4,13x8,119.0,290.0,Saudável
+906,Dra. Maria Mendonça,93,F,Guerra,SC,46.1,1.97,11.9,,,136.0,Pré-diabetes
+907,João Lucas Pastor,56,m,Souza,DF,98.7,1.95,26.0,13x8,142.0,,Saudável
+908,Arthur Gabriel Moraes,25,m,Rezende do Sul,DF,86.6,1.84,25.6,13x8,111.0,231.0,Hipertensão
+909,Lavínia Pacheco,26,M,Fernandes,AL,120.1,1.98,30.6,140/90,164.0,207.0,
+910,Elisa Brito,63,F,Montenegro,AP,122.4,1.77,39.1,110/70,,211.0,Hipertensão
+911,Yago Cavalcante,72,M,Brito das Pedras,AL,"48,4",1.74,16.0,120/80,,179.0,Pré-diabetes
+912,Nicole Cassiano,37,m,Sales da Mata,MT,76.0,1.63,28.6,13x8,133.0,256.0,Pré-diabetes
+913,Júlia da Paz,7,Masculino,Peixoto,AP,108.2,1.47,50.1,110/70,127.0,,Saudável
+914,Lucas Nascimento,17,F,da Luz,DF,92.4,1.88,26.1,,75.0,246.0,Pré-diabetes
+915,Matheus da Mata,4,m,Rodrigues,GO,138.0,2.02,33.8,12x8,249.0,,Diabetes
+916,Srta. Luísa Nascimento,64,F,Camargo de Moura,PR,103.3,1.68,36.6,140/90,118.0,134.0,Diabetes
+917,Maria Cecília Castro,94,M,Caldeira de Abreu,RO,93.0,1.43,45.5,110/70,238.0,,Pré-diabetes
+918,Igor Pires,47,m,da Rocha de Pires,RR,55.3,1.68,19.6,120/80,120.0,143.0,Diabetes
+919,Dr. Isaac Rodrigues,68,Masculino,da Mata da Praia,AL,39.8,1.92,10.8,,123.0,139.0,Diabetes
+920,Rodrigo da Paz,77,Feminino,Macedo,MA,128.5,2.05,30.6,13x8,,242.0,
+921,Davi Lucas Abreu,63,Feminino,Rocha,PE,112.2,1.63,42.2,13x8,,,
+922,Júlia Casa Grande,69,Masculino,Aragão,MG,46.0,1.63,17.3,110/70,,191.0,Diabetes
+923,Lara Casa Grande,39,Feminino,Fernandes de Minas,MS,93.1,1.48,42.5,,96.0,,
+924,Maria Laura Mendes,,m,Casa Grande da Praia,AC,64.2,1.65,23.6,120/80,,,Saudável
+925,Daniel Castro,28,F,Martins,PI,74.8,1.83,22.3,12x8,,,Hipertensão
+926,André da Cruz,33,Masculino,da Rocha do Oeste,PE,57.7,1.42,28.6,,,229.0,Hipertensão
+927,Clarice Macedo,36,Masculino,Sales,MG,83.7,1.77,26.7,12x8,,,Saudável
+928,Dom Pires,1,m,Montenegro do Sul,MS,119.0,2.02,29.2,120/80,,,Hipertensão
+929,Maria Julia Barbosa,,Masculino,Sá de Barbosa,MA,"36,3",1.6,14.2,,,,Saudável
+930,Isabel Marques,45,f,Pires,BA,102.0,1.76,32.9,110/70,74.0,,Hipertensão
+931,Maria Clara Correia,33,f,Novais do Sul,AC,48.4,1.81,14.8,13x8,218.0,179.0,
+932,Dr. Ryan Castro,74,m,Duarte da Serra,PE,39.4,1.87,11.3,120/80,,185.0,
+933,Marcelo da Paz,5,Masculino,Silveira,MS,59.6,1.47,27.6,12x8,173.0,250.0,Diabetes
+934,Ian da Mota,87,f,Brito do Sul,PA,42.5,1.68,15.1,140/90,96.0,,Obesidade
+935,Alana Pereira,37,Masculino,da Cruz dos Dourados,MT,38.3,1.64,14.2,140/90,98.0,147.0,Obesidade
+936,Davi Lucas Câmara,74,Feminino,Moraes,PR,71.1,1.54,30.0,12x8,68.0,217.0,Hipertensão
+937,Elisa Macedo,73,Feminino,da Rocha de Andrade,AP,92.6,1.67,33.2,,91.0,,
+938,Dr. Oliver Silveira,73,m,Rocha,GO,130.7,1.61,50.4,140/90,,200.0,
+939,Ana Sophia Moura,46,M,Pimenta,PR,72.0,1.73,24.1,140/90,,274.0,Saudável
+940,Calebe Viana,16,Masculino,Araújo,AM,60.7,1.99,15.3,,209.0,,Obesidade
+941,Heloísa Cirino,64,F,Ramos,BA,95.5,1.81,29.2,13x8,,123.0,Hipertensão
+942,Luiz Fernando Vasconcelos,60,Feminino,Rodrigues de Goiás,RR,45.6,1.97,11.7,110/70,66.0,138.0,Pré-diabetes
+943,Laura Brito,45,F,Fonseca das Pedras,PI,77.2,1.76,24.9,,135.0,,Pré-diabetes
+944,Vitor Pinto,9,Feminino,Oliveira dos Dourados,MA,131.7,2.02,32.3,110/70,,,Obesidade
+945,Lucas Gabriel Rezende,92,Masculino,Gonçalves,SE,131.2,2.01,32.5,120/80,98.0,,
+946,Dr. Vicente Nogueira,65,Feminino,Vasconcelos da Mata,MS,96.7,2.01,23.9,120/80,,,Hipertensão
+947,Dra. Maria Luísa Fonseca,54,m,Cardoso das Pedras,MA,68.9,1.61,26.6,13x8,96.0,308.0,Saudável
+948,Ayla Casa Grande,12,m,da Rosa,PE,64.9,1.48,29.6,140/90,,177.0,Obesidade
+949,Breno Oliveira,13,F,Alves,CE,105.0,1.49,47.3,13x8,201.0,127.0,Pré-diabetes
+950,Beatriz Caldeira,3,m,Freitas,MG,56.3,2.01,13.9,12x8,,253.0,Saudável
+951,Olívia Martins,15,f,Fonseca,TO,128.3,1.72,43.4,120/80,,307.0,Obesidade
+952,Theodoro Farias,9,m,Nascimento dos Dourados,AP,51.5,1.62,19.6,110/70,221.0,,Hipertensão
+953,Kaique Cassiano,40,F,Duarte do Campo,SC,123.4,1.83,36.8,,69.0,182.0,Pré-diabetes
+954,Marcela Cardoso,33,f,da Cunha,PR,50.9,1.93,13.7,,,153.0,
+955,Manuella da Rosa,95,F,Correia,MG,35.3,1.44,17.0,12x8,216.0,301.0,Hipertensão
+956,Srta. Allana Azevedo,74,F,da Luz,MA,102.0,1.71,34.9,,,,
+957,Maria Isis Martins,45,Masculino,Pires,MS,85.5,1.46,40.1,120/80,,,Diabetes
+958,Sra. Maria Sophia Macedo,40,Feminino,Sampaio,MA,46.9,1.85,13.7,,,,
+959,Liz Aragão,52,M,Castro Grande,PB,94.0,1.61,36.3,,,,Saudável
+960,Lara da Rocha,93,F,Jesus,RO,70.7,1.93,19.0,140/90,,176.0,Pré-diabetes
+961,Isaac Novais,78,Masculino,Porto do Norte,PA,69.6,1.79,21.7,120/80,244.0,217.0,
+962,Sr. Luiz Gustavo Abreu,8,Feminino,Santos do Campo,SC,40.2,1.54,17.0,12x8,110.0,,
+963,Asafe Monteiro,42,f,da Rosa de Gonçalves,AP,57.6,1.88,16.3,120/80,69.0,313.0,Pré-diabetes
+964,Dra. Olivia Monteiro,38,M,Moura,BA,59.2,1.9,16.4,13x8,,311.0,Saudável
+965,Stella Rios,34,M,Vieira,SE,43.0,1.73,14.4,,,125.0,
+966,Dr. Benício Araújo,94,Masculino,Dias Grande,RS,118.2,1.53,50.5,12x8,,228.0,Obesidade
+967,Kamilly da Cruz,83,Masculino,Teixeira da Prata,PR,84.5,1.59,33.4,120/80,,,Saudável
+968,Luigi Camargo,48,M,Silva,PR,139.3,1.87,39.8,140/90,199.0,235.0,Pré-diabetes
+969,Sr. Ravi Lucca Aragão,47,f,Nascimento Alegre,AP,94.1,1.82,28.4,140/90,96.0,144.0,Diabetes
+970,Rebeca Vieira,18,f,Albuquerque do Galho,RO,99.7,1.71,34.1,,205.0,,Obesidade
+971,Dr. João Gabriel Cunha,4,m,Fogaça,RR,107.3,1.79,33.5,120/80,128.0,,Pré-diabetes
+972,Thales Sales,59,Feminino,ALVES DE NOVAIS,MT,85.7,1.76,27.7,,247.0,,
+973,Sophie Montenegro,66,Feminino,Teixeira,SC,47.8,1.53,20.4,120/80,,246.0,
+974,Sra. Daniela da Conceição,70,f,da Paz,RN,76.9,1.59,30.4,110/70,,,Pré-diabetes
+975,Levi Cunha,37,Masculino,Lima das Flores,PR,106.9,1.92,29.0,,,,Diabetes
+976,Alexia Rios,17,F,Cunha,PE,90.1,1.94,23.9,120/80,,165.0,Saudável
+977,Dr. Yuri Correia,24,F,Sales do Amparo,MS,107.9,1.75,35.2,140/90,84.0,,Pré-diabetes
+978,Marina Carvalho,28,m,Pacheco de Monteiro,MS,101.0,2.0,25.2,140/90,,,Obesidade
+979,Sophie Rodrigues,69,Feminino,Rocha Grande,MG,104.2,1.45,49.6,13x8,86.0,191.0,Obesidade
+980,Marcela Caldeira,82,f,Nascimento Alegre,PB,69.7,1.9,19.3,12x8,,,Diabetes
+981,Kevin Vargas,11,Masculino,Machado do Norte,AM,50.4,1.51,22.1,120/80,142.0,133.0,Pré-diabetes
+982,Murilo Pimenta,38,Masculino,da Costa,RO,114.8,1.56,47.2,110/70,,,Obesidade
+983,Laís Santos,77,F,Macedo,RJ,135.3,2.01,33.5,140/90,242.0,,Saudável
+984,Theo Ramos,55,Feminino,Montenegro,RR,71.6,1.42,35.5,140/90,,,Diabetes
+985,Samuel Azevedo,24,f,Azevedo dos Dourados,TO,74.3,2.01,18.4,120/80,,212.0,Hipertensão
+986,Arthur Miguel da Mota,32,Masculino,Rocha Verde,RR,131.8,1.79,41.1,120/80,,,Saudável
+987,Isadora Sampaio,80,M,Rocha do Amparo,PI,137.0,1.94,36.4,,,245.0,Saudável
+988,Benjamin Fonseca,13,M,Nunes Paulista,RO,73.8,1.8,22.8,,99.0,153.0,Saudável
+989,Mariana Borges,90,M,Silva Paulista,AP,68.0,1.96,17.7,140/90,109.0,,
+990,Luara Borges,46,Masculino,Cassiano Verde,SC,36.5,1.83,10.9,110/70,230.0,136.0,Pré-diabetes
+991,Luana Duarte,5,m,Souza,RJ,98.9,1.85,28.9,110/70,104.0,,Pré-diabetes
+992,Srta. Rebeca da Conceição,89,M,Nascimento,TO,94.4,1.7,32.7,120/80,83.0,306.0,Diabetes
+993,Asafe Monteiro,21,M,Albuquerque,RR,57.8,1.64,21.5,120/80,245.0,198.0,
+994,Maria Helena Brito,90,m,Souza da Serra,BA,53.7,1.49,24.2,140/90,165.0,,Diabetes
+995,Mathias Abreu,33,M,Sousa,AM,86.4,1.78,27.3,140/90,,281.0,Hipertensão
+996,Francisco Aragão,72,F,Pereira de Goiás,CE,139.3,1.68,49.4,,,,
+997,Benício Araújo,34,M,Câmara,AP,88.9,1.54,37.5,13x8,,128.0,Pré-diabetes
+998,Sophia Abreu,75,m,Ramos,GO,74.1,1.65,27.2,12x8,,299.0,
+999,Thiago Silveira,60,m,da Cruz,MA,"70,4",1.99,17.8,13x8,,,Pré-diabetes
+1000,Emanuelly Abreu,58,Masculino,Machado,PR,95.5,1.68,33.8,110/70,181.0,,Pré-diabetes
+1001,Juliana Martins,29,Masculino,Mendonça,AL,46.3,1.68,16.4,140/90,,271.0,Diabetes
+1002,Julia Santos,89,Masculino,Andrade da Serra,AL,55.8,2.03,13.5,13x8,,133.0,Obesidade
+1003,Théo Pimenta,50,F,Mendonça,ES,83.4,1.83,24.9,13x8,,198.0,Diabetes
+1004,Luana Almeida,31,F,Cassiano,MS,106.9,1.95,28.1,140/90,,,Hipertensão
+1005,Zoe Gonçalves,60,Feminino,Pastor,GO,74.5,1.7,25.8,13x8,,,Diabetes
+1006,Erick da Costa,86,Feminino,Garcia,SE,126.6,1.79,39.5,12x8,,245.0,Diabetes
+1007,Otto Pastor,46,m,da Costa do Galho,BA,87.7,1.4,44.7,12x8,161.0,285.0,Diabetes
+1008,Letícia Mendonça,11,m,Andrade da Serra,AC,75.3,1.52,32.6,13x8,,,Hipertensão
+1009,Ana Clara Abreu,50,Feminino,Azevedo da Serra,RJ,89.3,1.47,41.3,120/80,148.0,,Hipertensão
+1010,Sra. Ana Clara Sá,87,f,Pacheco,GO,36.2,1.82,10.9,,,317.0,Obesidade
+1011,Ágatha das Neves,57,Masculino,Aparecida,SE,74.1,1.71,25.3,140/90,,148.0,Saudável
+1012,Alícia Casa Grande,19,M,Pires,SE,70.4,2.01,17.4,12x8,126.0,,Saudável
+1013,Isis Casa Grande,62,f,Caldeira,MT,73.5,1.98,18.7,,,,
+1014,José Miguel da Paz,22,m,Jesus das Flores,AM,72.5,1.41,36.5,140/90,136.0,272.0,Obesidade
+1015,Emanuel Teixeira,22,M,Marques do Norte,PB,91.2,1.48,41.6,13x8,,,Obesidade
+1016,Enzo Gabriel Carvalho,93,Masculino,Peixoto de Rezende,DF,94.8,1.43,46.4,140/90,155.0,157.0,Saudável
+1017,Zoe Mendonça,81,Feminino,Moreira da Serra,AP,66.7,1.66,24.2,13x8,125.0,230.0,Diabetes
+1018,Maria Alice Sousa,69,F,Castro de Marques,SE,107.9,1.43,52.8,12x8,181.0,,Obesidade
+1019,Jade Gomes,,M,Casa Grande,RN,98.5,1.99,24.9,,,,Diabetes
+1020,Ester Moreira,34,f,da Mata,DF,97.9,2.03,23.8,140/90,84.0,177.0,
+1021,Sra. Caroline Campos,91,Masculino,Cirino,PB,"121,8",1.78,38.4,,,,Saudável
+1022,Augusto Sales,44,f,Farias da Mata,CE,50.9,1.96,13.2,110/70,113.0,,Obesidade
+1023,Apollo Melo,10,Feminino,Ribeiro Grande,AP,86.1,2.04,20.7,120/80,,,Obesidade
+1024,Raul Rezende,74,F,Vasconcelos da Serra,MT,100.5,1.77,32.1,110/70,,,Diabetes
+1025,Srta. Brenda Moreira,15,M,Cavalcante das Pedras,SE,76.6,1.54,32.3,120/80,,165.0,
+1026,Maria Helena Vasconcelos,27,f,Sales,DF,129.5,1.58,51.9,140/90,221.0,,Pré-diabetes
+1027,Dr. Luiz Otávio Barros,63,f,Oliveira do Norte,DF,65.1,2.0,16.3,13x8,,193.0,Pré-diabetes
+1028,Beatriz Teixeira,87,M,Siqueira das Flores,PR,75.3,1.82,22.7,110/70,165.0,282.0,Pré-diabetes
+1029,Davi Miguel Cassiano,10,Masculino,Nogueira,PB,94.9,1.67,34.0,120/80,143.0,,
+1030,Dra. Maria Luiza Andrade,83,f,Vargas,DF,93.0,1.96,24.2,13x8,,305.0,Diabetes
+1031,Sr. José Garcia,16,m,Mendonça,GO,41.8,1.42,20.7,12x8,,,Diabetes
+1032,Manuela Machado,14,Masculino,Porto da Serra,GO,123.0,1.97,31.7,13x8,,304.0,Hipertensão
+1033,Marcelo Cunha,66,f,Rodrigues,RO,125.5,1.45,59.7,110/70,126.0,303.0,Saudável
+1034,André Souza,50,Feminino,da Mota de Teixeira,PA,115.7,1.64,43.0,,,229.0,Hipertensão
+1035,Dr. Francisco Silveira,14,Feminino,Cirino,RN,52.7,1.67,18.9,140/90,96.0,243.0,Obesidade
+1036,André Vasconcelos,90,f,Cavalcante,AL,114.0,1.89,31.9,140/90,,,
+1037,Manuela Costa,17,F,Aparecida,SC,89.8,1.42,44.5,140/90,,,Obesidade
+1038,Gabriel Montenegro,60,Feminino,Nascimento,RJ,81.2,1.59,32.1,,237.0,,Saudável
+1039,Luiz Henrique Borges,74,m,Jesus,BA,50.6,1.41,25.5,140/90,,242.0,Obesidade
+1040,Dr. Gabriel Barbosa,,m,Brito da Serra,BA,74.7,2.0,18.7,,,,Saudável
+1041,Yan Martins,39,F,DA PAZ,SP,58.6,1.58,23.5,,90.0,,Saudável
+1042,Valentim Rios,95,Masculino,das Neves de Sampaio,AP,129.3,1.88,36.6,140/90,230.0,222.0,Obesidade
+1043,Vitor Hugo Casa Grande,94,Masculino,Farias,TO,126.6,2.03,30.7,120/80,174.0,,
+1044,Sofia Oliveira,29,Feminino,Araújo de Ferreira,CE,110.3,1.52,47.7,12x8,,143.0,
+1045,Maria Alice Rocha,66,m,Leão,PA,41.4,1.55,17.2,12x8,,238.0,Pré-diabetes
+1046,Liz da Luz,9,F,da Conceição,PA,85.2,1.69,29.8,110/70,110.0,258.0,Pré-diabetes
+1047,Isis Monteiro,14,Feminino,Gomes,RN,128.1,1.91,35.1,13x8,,,Saudável
+1048,Eduarda da Luz,64,f,Gonçalves Paulista,MG,89.0,2.02,21.8,140/90,127.0,,
+1049,Vinicius Camargo,23,f,Gonçalves de Minas,ES,35.7,1.98,9.1,12x8,,161.0,Hipertensão
+1050,Lavínia Gonçalves,56,m,Pereira,BA,102.0,1.75,33.3,13x8,109.0,315.0,Diabetes
+1051,Kevin Santos,60,M,Mendonça do Campo,AL,106.9,2.0,26.7,13x8,206.0,202.0,Diabetes
+1052,Luiz Gustavo Silva,78,Feminino,da Rosa,CE,51.5,2.02,12.6,110/70,,,Diabetes
+1053,Caroline Oliveira,38,m,CORREIA DA PRATA,PE,50.2,1.62,19.1,140/90,,,Saudável
+1054,Bárbara Melo,51,M,Duarte de Ribeiro,AP,136.7,1.63,51.5,13x8,,124.0,Diabetes
+1055,Amanda Guerra,3,m,Costela,PA,79.9,1.65,29.3,12x8,203.0,,Obesidade
+1056,Ana Júlia Ribeiro,61,Feminino,Fogaça,AP,97.3,2.02,23.8,120/80,,,Diabetes
+1057,Maria Eduarda Jesus,12,M,Cardoso de Dias,GO,102.2,1.58,40.9,140/90,,,Diabetes
+1058,Mariah Sá,93,f,Duarte dos Dourados,AL,121.6,1.97,31.3,12x8,136.0,263.0,Saudável
+1059,Yan Azevedo,33,Masculino,Abreu de Viana,AL,90.8,1.59,35.9,120/80,95.0,,Obesidade
+1060,Larissa Mendonça,23,m,das Neves do Oeste,MT,84.2,1.7,29.1,140/90,,185.0,Diabetes
+1061,Gustavo Henrique Ferreira,62,M,da Conceição das Pedras,BA,122.3,1.44,59.0,12x8,155.0,,Hipertensão
+1062,Henry Gabriel Cassiano,68,f,Nogueira,SE,64.7,1.62,24.7,120/80,248.0,264.0,Pré-diabetes
+1063,Erick Siqueira,11,Masculino,Pacheco,DF,131.9,1.8,40.7,13x8,,,Saudável
+1064,Sra. Sofia Silva,42,M,Pires,SP,54.1,1.77,17.3,110/70,,,Pré-diabetes
+1065,Sra. Helena Ramos,1,F,Lima de Costa,RN,68.9,1.5,30.6,13x8,,,
+1066,Bernardo Viana,45,Feminino,Pacheco,PB,126.1,1.5,56.0,13x8,,166.0,Hipertensão
+1067,Daniel Pereira,16,Masculino,Garcia,ES,71.6,1.45,34.1,140/90,118.0,,Diabetes
+1068,Hadassa Mendes,27,m,Fernandes,RJ,37.9,1.97,9.8,110/70,,,
+1069,Ana Câmara,56,f,Aparecida de Vieira,RS,55.9,1.9,15.5,12x8,91.0,164.0,Diabetes
+1070,Juan Lima,77,m,Lima do Oeste,RN,113.7,1.61,43.9,13x8,113.0,,Saudável
+1071,Sophie Jesus,0,f,Fogaça dos Dourados,RR,119.4,1.66,43.3,120/80,,199.0,Saudável
+1072,Carlos Eduardo Leão,89,M,Machado de Vieira,PA,103.3,1.93,27.7,110/70,,,Hipertensão
+1073,Heitor Marques,16,Masculino,Câmara de Fernandes,PB,51.4,1.85,15.0,120/80,75.0,,Obesidade
+1074,Breno Aragão,22,Masculino,Câmara,RN,136.4,1.88,38.6,,,148.0,Hipertensão
+1075,Amanda Silveira,33,Masculino,Aparecida,BA,68.7,1.91,18.8,140/90,,128.0,Saudável
+1076,Bento Castro,67,F,Nunes,ES,51.6,1.41,26.0,13x8,,136.0,Saudável
+1077,Eduardo Fogaça,56,F,Cassiano de Goiás,RN,125.0,1.93,33.6,120/80,,,Diabetes
+1078,Leonardo da Conceição,85,Feminino,Sá do Galho,DF,45.1,1.72,15.2,12x8,110.0,176.0,Diabetes
+1079,Arthur Miguel Moraes,51,m,Andrade do Norte,RR,128.1,1.47,59.3,13x8,124.0,,Obesidade
+1080,Srta. Maria Eduarda Jesus,66,Masculino,Abreu,MT,138.7,1.57,56.3,13x8,,215.0,Pré-diabetes
+1081,Dra. Ana Beatriz Cassiano,49,Feminino,Sá,MG,40.0,1.53,17.1,13x8,63.0,282.0,Diabetes
+1082,Lara Brito,61,m,Peixoto,MT,54.7,1.97,14.1,12x8,,,Pré-diabetes
+1083,João Gabriel Casa Grande,83,Masculino,Rocha,SC,132.0,1.62,50.3,13x8,,,
+1084,Ana Lívia Costela,33,M,Sales,PI,117.1,1.68,41.5,120/80,199.0,144.0,Saudável
+1085,Luigi Sales,16,m,PIMENTA DE DA MATA,AM,67.2,1.68,23.8,120/80,189.0,221.0,Diabetes
+1086,Luísa Fernandes,93,Feminino,Lima,TO,72.2,1.79,22.5,13x8,204.0,,Pré-diabetes
+1087,Isis Cardoso,47,F,Mendonça,PE,45.5,1.51,20.0,,218.0,312.0,Pré-diabetes
+1088,Thiago Pacheco,35,M,DA ROSA DA MATA,AC,135.7,2.02,33.3,140/90,,,Obesidade
+1089,Emanuelly Cunha,32,Feminino,Correia de Almeida,PA,93.4,1.6,36.5,,216.0,,Diabetes
+1090,Sr. Anthony Abreu,31,f,Castro do Norte,BA,117.6,1.82,35.5,110/70,211.0,,Hipertensão
+1091,Nina Abreu,51,M,Correia,MG,111.2,1.78,35.1,,98.0,233.0,
+1092,Paulo Souza,66,m,Melo,TO,90.0,1.9,24.9,12x8,180.0,,Obesidade
+1093,Lorena Nunes,19,M,Vargas,ES,127.4,1.89,35.7,,,,Obesidade
+1094,Gabrielly Fonseca,90,Feminino,Azevedo,MS,125.9,1.72,42.6,140/90,117.0,,Diabetes
+1095,Maria Pacheco,55,f,Nunes do Galho,BA,40.9,1.47,18.9,140/90,,,Saudável
+1096,Davi Barros,1,M,Santos do Galho,RJ,109.9,1.72,37.1,12x8,186.0,,
+1097,Raquel Mendonça,62,Masculino,Sampaio dos Dourados,PR,98.7,1.77,31.5,12x8,,130.0,Pré-diabetes
+1098,Felipe Almeida,12,M,Novaes,BA,136.5,1.56,56.1,12x8,,220.0,Obesidade
+1099,Ryan Cirino,66,M,Mendonça de da Rosa,CE,"133,7",1.93,35.9,,,291.0,Diabetes
+1100,Milena Vargas,12,m,Pinto Grande,SP,131.7,1.92,35.7,,,,Obesidade
+1101,Luiz Gustavo Cavalcante,6,m,Gonçalves,AC,83.1,2.04,20.0,140/90,101.0,,
+1102,Maria Clara Castro,63,M,Macedo do Galho,CE,70.0,1.8,21.6,,,198.0,
+1103,Caio Souza,81,F,Machado da Serra,MS,114.4,1.53,48.9,,,,Obesidade
+1104,Isaque Fogaça,14,F,Melo,RO,96.1,1.99,24.3,,,313.0,Saudável
+1105,Yasmin Fernandes,91,Masculino,Siqueira,RJ,131.0,1.83,39.1,140/90,,,Saudável
+1106,Ian Marques,94,m,Pacheco,RS,99.4,2.03,24.1,140/90,,130.0,Pré-diabetes
+1107,Marcela Nascimento,28,Feminino,Andrade,PB,"138,2",1.56,56.8,13x8,172.0,157.0,Obesidade
+1108,Sra. Catarina Melo,56,f,Nogueira,SE,93.4,2.05,22.2,13x8,165.0,,
+1109,Benjamin Vieira,33,Feminino,Mendonça,TO,118.7,1.64,44.1,140/90,,213.0,Obesidade
+1110,Olívia Ramos,41,Feminino,Abreu,RN,60.9,1.75,19.9,13x8,,,Hipertensão
+1111,Gabriel Monteiro,91,Feminino,Sampaio,AP,102.7,1.76,33.2,13x8,,267.0,Saudável
+1112,Júlia Martins,21,M,Fogaça,MS,93.8,1.76,30.3,120/80,,300.0,Hipertensão
+1113,Dr. Caio da Rosa,72,m,Farias,TO,134.5,1.87,38.5,,,230.0,Saudável
+1114,Melissa Vieira,86,m,Jesus,AP,69.7,1.77,22.2,12x8,164.0,,Hipertensão
+1115,Nina Costa,75,M,Oliveira,GO,116.3,1.45,55.3,120/80,,306.0,
+1116,Alexandre Albuquerque,22,F,Farias,MT,38.1,2.0,9.5,,,142.0,Saudável
+1117,Helena Caldeira,52,f,Ribeiro,RO,108.1,1.49,48.7,140/90,106.0,,Diabetes
+1118,Dr. Benício Vasconcelos,23,m,Alves,SC,"77,1",1.55,32.1,,222.0,,Hipertensão
+1119,Sophia da Rocha,71,M,Cunha,GO,106.7,1.46,50.1,120/80,195.0,,Saudável
+1120,Miguel Sales,47,M,Mendonça,PA,135.3,1.52,58.6,12x8,187.0,257.0,Obesidade
+1121,Marcela Barros,47,Masculino,Rios,MG,53.6,1.69,18.8,13x8,189.0,233.0,Pré-diabetes
+1122,Stella Pastor,15,m,Novaes de Pereira,AC,133.2,1.47,61.6,,106.0,,Diabetes
+1123,Arthur Miguel da Rosa,58,Feminino,Nogueira,RO,92.5,1.65,34.0,110/70,89.0,206.0,Obesidade
+1124,Zoe Castro,51,M,Pacheco,SC,72.6,2.0,18.1,110/70,228.0,253.0,
+1125,Cecília da Mota,89,Masculino,Oliveira do Sul,MG,89.8,1.89,25.1,,,202.0,Saudável
+1126,Dr. Miguel Novais,51,f,da Costa do Sul,RS,74.6,1.72,25.2,110/70,,,Pré-diabetes
+1127,Joaquim da Paz,36,Feminino,Rodrigues,AC,108.4,1.74,35.8,120/80,108.0,198.0,
+1128,Luan Viana,38,f,Duarte de Goiás,PI,54.8,2.03,13.3,120/80,,309.0,Pré-diabetes
+1129,Mariana das Neves,12,f,MONTEIRO DE MENDES,ES,134.7,1.98,34.4,,141.0,302.0,Saudável
+1130,Otávio Cardoso,48,F,Araújo de Gonçalves,RS,129.5,1.48,59.1,140/90,61.0,,Diabetes
+1131,Léo Machado,51,M,Cassiano de Ferreira,RS,51.4,1.79,16.0,12x8,,,Diabetes
+1132,Sr. João Felipe Araújo,52,Feminino,Teixeira,SE,36.1,1.94,9.6,110/70,131.0,,Obesidade
+1133,João Guilherme da Cruz,89,f,Souza,PB,48.5,1.85,14.2,120/80,223.0,149.0,Saudável
+1134,Sarah Correia,94,m,Vargas da Prata,MT,135.3,1.86,39.1,,,,Obesidade
+1135,Oliver Moura,50,F,Silveira do Amparo,MA,134.8,1.76,43.5,110/70,111.0,252.0,Saudável
+1136,Lunna Novaes,49,F,Montenegro da Praia,MG,43.8,1.85,12.8,120/80,,,Saudável
+1137,Srta. Rebeca Correia,84,Masculino,Cavalcante do Norte,SE,115.5,1.52,50.0,13x8,,131.0,Diabetes
+1138,Kevin Casa Grande,44,f,Nogueira Grande,TO,56.1,1.82,16.9,110/70,157.0,194.0,Diabetes
+1139,Cauã da Cunha,56,M,Garcia do Norte,MT,126.5,1.45,60.2,13x8,,262.0,Diabetes
+1140,Srta. Maria Laura Borges,8,f,DA CUNHA DO NORTE,PA,89.4,1.41,45.0,,,214.0,Diabetes
+1141,Mateus Almeida,0,Masculino,Freitas,CE,"41,1",1.65,15.1,12x8,90.0,315.0,Pré-diabetes
+1142,Sr. André Pires,60,Masculino,Cavalcanti,SC,102.7,1.58,41.1,12x8,,311.0,
+1143,Dra. Stephany Alves,81,f,Sá de Ramos,MA,85.3,1.98,21.8,110/70,,177.0,Obesidade
+1144,Ester Sales,32,F,Borges,AL,73.6,1.41,37.0,140/90,96.0,,
+1145,Lavínia Rodrigues,16,Feminino,Farias,MG,72.1,2.01,17.8,110/70,,,Saudável
+1146,Benício Camargo,85,f,Fonseca,RR,49.0,1.74,16.2,13x8,115.0,265.0,
+1147,Ana Laura Brito,70,f,Garcia de Porto,BA,74.4,1.6,29.1,110/70,,,Obesidade
+1148,Dra. Lunna Vieira,52,M,Cavalcante Alegre,RR,"55,9",1.62,21.3,13x8,,,Diabetes
+1149,Dr. Gustavo Henrique Pires,72,Feminino,Borges,AP,53.1,2.04,12.8,,204.0,,Pré-diabetes
+1150,Elisa Lopes,59,F,Andrade da Praia,RS,"126,1",1.48,57.6,110/70,140.0,293.0,Hipertensão
+1151,Ana Luiza da Luz,6,m,da Luz da Serra,RR,124.5,1.6,48.6,140/90,111.0,,Hipertensão
+1152,Isabel Moraes,57,f,Nascimento,AM,70.6,1.51,31.0,140/90,85.0,158.0,Saudável
+1153,Dr. Bruno Vasconcelos,71,Masculino,Ramos,SE,101.0,1.85,29.5,140/90,236.0,149.0,Saudável
+1154,Kaique Pires,60,f,Guerra da Mata,PB,85.1,1.9,23.6,12x8,,232.0,Saudável
+1155,Pedro Lucas Siqueira,72,m,Araújo da Mata,AM,128.0,2.04,30.8,140/90,77.0,,
+1156,Gustavo Andrade,85,F,da Luz Alegre,AM,136.0,1.61,52.5,,,,Hipertensão
+1157,Luiza Pastor,46,m,Monteiro,RN,55.2,1.58,22.1,12x8,,201.0,Hipertensão
+1158,Levi Caldeira,55,m,CAMARGO DO GALHO,TO,39.2,1.89,11.0,,177.0,205.0,Diabetes
+1159,Mariana Fernandes,73,M,Alves da Prata,BA,66.8,1.53,28.5,110/70,,,
+1160,Bianca Camargo,54,f,Novais do Norte,GO,109.3,1.49,49.2,140/90,,261.0,Saudável
+1161,Maria Vitória Azevedo,85,M,Farias,RN,119.6,1.99,30.2,12x8,89.0,152.0,Diabetes
+1162,Dr. Pedro Henrique Moreira,30,M,Carvalho das Pedras,PA,125.7,1.41,63.2,120/80,,278.0,Diabetes
+1163,Sofia Almeida,80,m,OLIVEIRA DE PIMENTA,MA,117.5,1.47,54.4,120/80,74.0,171.0,Diabetes
+1164,Davi Fogaça,87,F,Jesus,AP,57.1,1.87,16.3,110/70,142.0,241.0,
+1165,Anna Liz Gomes,36,Feminino,Aragão de Viana,RR,106.0,1.96,27.6,120/80,173.0,249.0,Hipertensão
+1166,Caleb Castro,69,Masculino,da Rosa,RJ,137.1,1.85,40.1,,79.0,,Diabetes
+1167,Maria Luísa Nascimento,,f,Barbosa de Aparecida,AC,88.2,1.59,34.9,110/70,,308.0,Pré-diabetes
+1168,Cecilia Abreu,36,F,Costa do Oeste,ES,41.8,1.44,20.2,140/90,247.0,,Hipertensão
+1169,Natália Duarte,95,Feminino,Nascimento do Amparo,PA,44.3,1.78,14.0,140/90,238.0,,
+1170,Emanuella Moraes,61,m,Castro,RO,87.5,1.9,24.2,140/90,199.0,178.0,Hipertensão
+1171,Giovanna Souza,41,f,Alves do Oeste,RN,83.7,1.98,21.3,110/70,99.0,,Saudável
+1172,Maria Fernanda Ribeiro,48,Feminino,da Cunha Paulista,RJ,50.7,1.64,18.9,110/70,229.0,158.0,Diabetes
+1173,Ester Nascimento,43,F,Rocha das Flores,DF,37.3,1.65,13.7,140/90,,178.0,Saudável
+1174,Luiz Gustavo Rocha,20,f,Vieira,AC,136.8,1.44,66.0,120/80,,,Pré-diabetes
+1175,Dra. Cecilia Cavalcanti,27,f,Oliveira de Fernandes,MA,86.5,2.02,21.2,,,,
+1176,Bianca Barbosa,,m,Barros,RJ,70.8,1.64,26.3,,,,Hipertensão
+1177,Isabella Sousa,41,Feminino,Camargo de Campos,SP,59.5,1.97,15.3,140/90,,,Pré-diabetes
+1178,Maria Luísa Costela,41,Feminino,Albuquerque do Galho,DF,"95,1",1.99,24.0,,211.0,,Pré-diabetes
+1179,Aurora Albuquerque,12,f,Borges da Prata,PA,113.8,1.81,34.7,120/80,,,Hipertensão
+1180,Jade da Rosa,35,Feminino,Castro da Mata,AC,50.0,1.95,13.1,120/80,181.0,177.0,Obesidade
+1181,Olivia Sales,34,m,Brito Alegre,CE,85.9,1.6,33.6,12x8,111.0,272.0,Obesidade
+1182,Helena Costela,64,m,Leão,MA,"61,1",1.64,22.7,,,186.0,Diabetes
+1183,Dr. Matteo Siqueira,53,M,Lima da Serra,RJ,73.7,1.9,20.4,13x8,,262.0,Pré-diabetes
+1184,Lunna Castro,58,m,da Conceição,RS,55.8,1.79,17.4,140/90,101.0,202.0,Hipertensão
+1185,Gabriel Nunes,18,m,Pereira,AC,122.3,1.64,45.5,120/80,,,Saudável
+1186,Igor Farias,82,m,Borges dos Dourados,AL,69.0,1.89,19.3,120/80,190.0,305.0,Saudável
+1187,Juan da Rocha,66,F,Gonçalves,MG,133.7,1.55,55.7,140/90,,,Obesidade
+1188,Ísis Duarte,67,f,Fonseca,SC,102.4,1.66,37.2,13x8,200.0,,Diabetes
+1189,Isabela Cardoso,30,M,Alves,BA,102.7,1.76,33.2,120/80,224.0,242.0,Hipertensão
+1190,Srta. Eloá Viana,,Masculino,Pastor do Oeste,DF,68.5,1.65,25.2,,,,Saudável
+1191,Isadora Dias,8,M,Moraes do Oeste,ES,56.0,1.42,27.8,13x8,,,
+1192,Léo Camargo,21,f,Rocha Verde,PI,57.3,1.75,18.7,,,,Pré-diabetes
+1193,Francisco Caldeira,32,m,Santos da Praia,AL,55.6,1.98,14.2,110/70,,235.0,Saudável
+1194,Pedro Henrique Peixoto,51,F,Teixeira,GO,54.4,1.43,26.6,120/80,250.0,,
+1195,Maria Liz Vasconcelos,,f,da Conceição,MG,40.7,1.81,12.4,12x8,124.0,250.0,Obesidade
+1196,Gabriel Guerra,26,f,Ramos de Fernandes,PE,134.4,1.65,49.4,140/90,,274.0,Saudável
+1197,Francisco Cunha,85,F,Santos do Amparo,GO,43.2,1.47,20.0,120/80,67.0,,Hipertensão
+1198,Hellena Gonçalves,20,M,Pires Verde,AM,40.6,1.54,17.1,13x8,,,Saudável
+1199,Daniel Gomes,15,m,Aparecida,RR,49.9,1.7,17.3,13x8,90.0,241.0,Hipertensão
+1200,Sofia Oliveira,74,Feminino,Campos,MT,93.5,1.58,37.5,,,136.0,Diabetes
+1201,Maria Oliveira,63,f,da Paz,PB,122.2,1.67,43.8,120/80,207.0,288.0,Obesidade
+1202,Mirella Pinto,34,M,Rocha Paulista,ES,105.5,2.03,25.6,13x8,,120.0,Pré-diabetes
+1203,Mathias Costela,62,F,da Costa Grande,PE,110.1,1.88,31.2,140/90,153.0,,Saudável
+1204,Olívia Castro,47,Feminino,Farias,PA,92.9,1.49,41.8,,,224.0,Pré-diabetes
+1205,Maria Julia Nascimento,37,F,da Rosa,RO,120.5,1.89,33.7,110/70,,,Hipertensão
+1206,Nicolas Rodrigues,45,Feminino,Nascimento,SP,84.0,1.89,23.5,,102.0,207.0,Pré-diabetes
+1207,Fernando Cirino,73,F,Câmara da Serra,SE,137.6,1.91,37.7,,161.0,227.0,Pré-diabetes
+1208,Helena Aragão,32,Masculino,Sousa de Cirino,PA,104.8,1.51,46.0,13x8,,245.0,Obesidade
+1209,Davi Luiz Jesus,50,Masculino,Cassiano,RO,104.0,1.66,37.7,12x8,,296.0,Diabetes
+1210,Benicio Rezende,24,Feminino,Cardoso do Oeste,PA,35.1,1.92,9.5,12x8,,156.0,
+1211,Dra. Ana Carolina Lima,26,Masculino,Ribeiro,PB,102.0,2.02,25.0,13x8,66.0,,Hipertensão
+1212,Davi Peixoto,8,m,Fernandes de da Mota,MS,82.5,1.48,37.7,140/90,,,Obesidade
+1213,Sr. Augusto da Cruz,75,f,Aragão da Mata,RJ,101.7,1.79,31.7,,185.0,,Obesidade
+1214,Dom Machado,49,Masculino,Peixoto de Almeida,MA,115.8,1.67,41.5,12x8,,,Hipertensão
+1215,Mariana Teixeira,11,f,Silva do Galho,ES,61.5,1.46,28.9,13x8,245.0,,
+1216,Beatriz Farias,41,m,Camargo do Norte,PR,93.0,1.86,26.9,110/70,,144.0,
+1217,Alice Silveira,64,f,Santos,MT,42.3,1.52,18.3,140/90,,257.0,Obesidade
+1218,Otávio Fogaça,57,m,SALES DO SUL,GO,124.6,1.43,60.9,12x8,,148.0,Hipertensão
+1219,Bella Mendonça,95,Feminino,Fonseca,RN,130.1,1.9,36.0,120/80,137.0,,
+1220,Ravi Castro,89,M,Novaes de Pacheco,MS,45.7,1.49,20.6,,214.0,,Obesidade
+1221,Vitor Nunes,88,m,Santos,MT,101.7,1.47,47.1,110/70,,,Hipertensão
+1222,Mateus Casa Grande,45,f,Oliveira,PE,77.1,2.0,19.3,13x8,90.0,161.0,Pré-diabetes
+1223,Sr. Emanuel Mendes,69,m,Souza,DF,93.5,1.71,32.0,,,149.0,Diabetes
+1224,Gabriel Sampaio,50,M,Almeida do Norte,PE,74.0,1.73,24.7,120/80,,269.0,Obesidade
+1225,Gustavo Borges,61,F,Guerra Verde,AM,54.8,1.71,18.7,110/70,114.0,,Pré-diabetes
+1226,Anthony Gabriel Machado,18,Feminino,Fonseca de Lima,SC,48.3,1.73,16.1,120/80,182.0,264.0,Diabetes
+1227,Luan Porto,28,m,Aparecida,PB,77.7,1.89,21.8,120/80,,127.0,
+1228,Daniela da Conceição,28,Feminino,Pires do Amparo,MS,130.3,1.71,44.6,12x8,164.0,,Saudável
+1229,João Miguel Garcia,8,Masculino,Cassiano,RR,43.9,1.98,11.2,13x8,224.0,,Saudável
+1230,Maria Júlia Barbosa,43,m,Mendonça da Praia,AM,122.8,1.79,38.3,140/90,,218.0,Saudável
+1231,Heitor Siqueira,68,Masculino,Rezende da Prata,AL,99.7,1.44,48.1,,,193.0,Obesidade
+1232,Lorena da Cruz,24,m,Campos,TO,137.1,1.52,59.3,140/90,,,Pré-diabetes
+1233,Ana Sophia Araújo,17,Feminino,Santos,ES,66.0,1.85,19.3,140/90,,,Pré-diabetes
+1234,Yan da Luz,37,Feminino,Aragão,CE,60.9,1.79,19.0,,146.0,,Obesidade
+1235,Pietra Fonseca,72,f,Almeida da Mata,ES,"91,4",1.5,40.6,12x8,,,Pré-diabetes
+1236,João Felipe da Costa,32,f,da Rocha,PB,82.7,2.04,19.9,12x8,,,Hipertensão
+1237,Agatha Sales,13,f,Novais da Mata,GO,80.9,1.6,31.6,13x8,106.0,212.0,Hipertensão
+1238,Pedro Henrique Duarte,34,F,Montenegro da Praia,ES,117.3,2.0,29.3,,168.0,130.0,Hipertensão
+1239,Rodrigo Pinto,36,f,da Luz,MS,60.3,1.54,25.4,12x8,,,Diabetes
+1240,Luiz Fernando Costela,28,F,Costela das Flores,PE,119.6,1.94,31.8,13x8,198.0,161.0,Pré-diabetes
+1241,Dom Albuquerque,62,M,MELO,MA,45.0,1.95,11.8,13x8,,276.0,Diabetes
+1242,Zoe Gomes,85,m,Casa Grande,PI,80.7,1.96,21.0,110/70,174.0,179.0,Hipertensão
+1243,Ryan Moraes,,Masculino,Moraes de Novaes,PB,113.8,1.41,57.2,140/90,,,Obesidade
+1244,Emanuel Pires,56,Masculino,Silveira,MA,56.6,1.49,25.5,120/80,,,Diabetes
+1245,Bruno Barbosa,91,m,Azevedo,RS,"129,3",1.65,47.5,110/70,66.0,285.0,Saudável
+1246,Alice Aragão,46,f,Cassiano do Norte,GO,37.2,1.68,13.2,110/70,168.0,,Obesidade
+1247,Maria Fernanda Lopes,61,F,Lima,AM,52.7,1.95,13.9,,192.0,,Obesidade
+1248,Benício Gonçalves,20,M,da Luz,SP,99.6,1.76,32.2,140/90,,235.0,Obesidade
+1249,Srta. Stephany Caldeira,23,F,Pinto do Galho,AL,78.0,1.51,34.2,120/80,119.0,278.0,Pré-diabetes
+1250,Isabel Moura,94,F,Fonseca da Mata,TO,65.3,1.71,22.3,110/70,102.0,124.0,Pré-diabetes
+1251,José Miguel da Cruz,22,Masculino,Guerra de Barros,AL,48.0,1.7,16.6,140/90,245.0,159.0,Diabetes
+1252,Aylla da Mata,34,Masculino,Castro,AL,120.4,1.73,40.2,120/80,160.0,162.0,Saudável
+1253,Daniela da Cunha,47,Masculino,Garcia,AP,117.2,1.7,40.6,110/70,104.0,302.0,Diabetes
+1254,Dra. Ana da Rocha,48,F,Nascimento do Norte,PB,35.1,1.7,12.1,110/70,,,Pré-diabetes
+1255,Giovanna Peixoto,77,Masculino,Novais,PB,110.4,1.89,30.9,140/90,,,Diabetes
+1256,Lucas Albuquerque,47,m,Barros do Campo,PR,47.1,1.99,11.9,110/70,,215.0,Obesidade
+1257,Agatha Fogaça,,F,Caldeira,AL,82.2,1.78,25.9,,,221.0,Diabetes
+1258,Levi da Cunha,62,f,Casa Grande,RN,84.0,1.7,29.1,13x8,178.0,226.0,Diabetes
+1259,Elisa Macedo,37,m,Mendes da Mata,ES,40.6,1.7,14.0,110/70,,,Obesidade
+1260,Sra. Pietra Moraes,61,M,Ferreira,RN,72.0,1.53,30.8,12x8,102.0,145.0,
+1261,Levi Marques,27,Feminino,Macedo,SE,89.7,1.42,44.5,110/70,,,Obesidade
+1262,Manuella Ramos,56,f,Ribeiro do Amparo,MA,80.5,1.73,26.9,,200.0,,Obesidade
+1263,Sra. Ana Cecília Dias,34,F,Novais do Oeste,SE,49.9,1.99,12.6,120/80,,,Diabetes
+1264,Emanuella Rocha,24,f,Martins,RR,94.8,1.67,34.0,13x8,,173.0,Hipertensão
+1265,Ana Sophia Fogaça,8,F,Azevedo das Flores,RS,84.2,2.04,20.2,,186.0,,Obesidade
+1266,Maria Fernanda Moreira,33,Masculino,Montenegro,BA,93.6,1.98,23.9,,,254.0,
+1267,Benjamin Albuquerque,35,Masculino,Vargas de da Rocha,ES,116.7,1.56,48.0,120/80,,,Pré-diabetes
+1268,Eloah Vasconcelos,6,Masculino,Monteiro do Norte,TO,66.5,1.96,17.3,120/80,97.0,320.0,Diabetes
+1269,Dr. João Vitor Costela,69,Masculino,Ramos do Sul,MS,73.1,1.88,20.7,110/70,,196.0,Diabetes
+1270,Dr. Ravi Lucca Melo,8,m,Novaes de Moura,GO,132.2,1.44,63.8,110/70,170.0,,Hipertensão
+1271,Maria Flor Novaes,62,f,Santos,RS,132.4,1.66,48.0,13x8,,,Diabetes
+1272,Benício Siqueira,41,Masculino,Sales,MA,74.6,1.45,35.5,120/80,81.0,,Saudável
+1273,Sr. Bento Aragão,89,Feminino,Novais Alegre,RS,50.9,1.43,24.9,110/70,105.0,,Obesidade
+1274,Nathan Novais,85,Masculino,Pires,GO,44.2,1.51,19.4,140/90,144.0,129.0,Hipertensão
+1275,Dr. Vitor Gabriel Andrade,21,f,da Cruz,AL,121.5,1.72,41.1,140/90,,277.0,Pré-diabetes
+1276,Júlia Pacheco,33,F,Montenegro,MA,102.6,1.85,30.0,120/80,187.0,,Hipertensão
+1277,João Vitor Rodrigues,60,f,Carvalho,BA,72.7,1.73,24.3,140/90,,227.0,Obesidade
+1278,Vitor Lima,90,F,Mendonça,TO,38.9,1.44,18.8,120/80,97.0,234.0,Diabetes
+1279,Bruno da Paz,40,Masculino,Teixeira,PR,60.1,1.71,20.6,110/70,,301.0,Saudável
+1280,Sara Alves,44,M,Cassiano,PR,40.1,1.95,10.5,140/90,159.0,,
+1281,Ian Sampaio,57,F,Ribeiro da Mata,RS,120.7,1.88,34.2,,,312.0,Hipertensão
+1282,Marina Rocha,11,f,Souza de da Mata,PA,126.9,1.62,48.4,120/80,95.0,,Obesidade
+1283,Heloisa Nogueira,1,Feminino,Sousa,RJ,72.9,1.62,27.8,12x8,,120.0,Saudável
+1284,Antony Leão,18,m,Mendonça de Minas,RN,106.4,1.96,27.7,,,,Pré-diabetes
+1285,Lara Martins,55,Feminino,Melo,AL,"119,0",1.7,41.2,,,,Hipertensão
+1286,Valentim Jesus,8,f,Rocha,SP,122.1,1.67,43.8,110/70,215.0,200.0,Saudável
+1287,Henrique Moreira,29,Feminino,Barros,RO,"130,0",1.57,52.7,140/90,61.0,130.0,Saudável
+1288,Luna Costela,9,m,Araújo,CE,91.2,1.98,23.3,110/70,,316.0,Saudável
+1289,Ana Luiza Fernandes,36,M,Pires das Pedras,SE,124.8,2.0,31.2,110/70,,165.0,Hipertensão
+1290,João Vitor Castro,61,M,Carvalho da Prata,SE,45.4,2.01,11.2,,126.0,,
+1291,Breno das Neves,93,F,Caldeira,RJ,"73,0",1.9,20.2,140/90,139.0,139.0,Hipertensão
+1292,Sra. Natália Dias,34,F,da Mota de Goiás,MA,46.9,1.69,16.4,120/80,,250.0,Saudável
+1293,Pedro Henrique Correia,11,m,Fonseca Verde,MT,53.5,1.92,14.5,12x8,124.0,278.0,Hipertensão
+1294,Davi Fonseca,88,Masculino,Carvalho do Amparo,SE,55.4,2.04,13.3,,149.0,,Saudável
+1295,Leonardo Fogaça,27,F,Viana,CE,55.0,1.81,16.8,12x8,238.0,310.0,
+1296,Lucas Gabriel Rodrigues,58,f,da Rosa,RR,68.8,1.64,25.6,120/80,,168.0,Pré-diabetes
+1297,Ravy da Cunha,83,m,Machado,MA,78.6,1.94,20.9,140/90,178.0,154.0,Pré-diabetes
+1298,Maria Clara Cavalcanti,60,f,Ribeiro das Pedras,DF,93.1,1.76,30.1,140/90,90.0,,Diabetes
+1299,Davi Lucas Viana,13,M,Freitas do Campo,AM,133.6,1.83,39.9,13x8,,217.0,Obesidade
+1300,Leandro Fogaça,67,m,Martins,MS,42.9,1.6,16.8,140/90,164.0,,Obesidade
+1301,Luiz Henrique Siqueira,67,Masculino,Silva,PE,98.0,1.47,45.4,120/80,,,Obesidade
+1302,Milena Vargas,10,F,Lima de Azevedo,PA,40.2,1.6,15.7,12x8,198.0,,Pré-diabetes
+1303,Juan Cardoso,5,m,Abreu,CE,131.5,1.67,47.2,,,309.0,Diabetes
+1304,Maria Helena Dias,13,f,Lima,MT,39.5,1.93,10.6,110/70,198.0,187.0,Pré-diabetes
+1305,Sr. Igor Pastor,42,F,Dias de Fogaça,PI,54.4,2.0,13.6,,86.0,240.0,
+1306,Cauê Pereira,87,Masculino,Teixeira,DF,60.1,1.67,21.5,,,267.0,Saudável
+1307,Sr. Juan Brito,85,f,Azevedo de Mendonça,GO,55.2,1.74,18.2,140/90,,,Pré-diabetes
+1308,Sra. Stella Dias,15,Feminino,Gomes,PR,79.1,1.82,23.9,110/70,60.0,223.0,
+1309,Luiza Cavalcanti,82,Masculino,Pimenta do Campo,MS,47.6,1.84,14.1,13x8,242.0,179.0,
+1310,Stella Gomes,27,m,Cassiano de da Paz,MG,135.7,1.77,43.3,,113.0,298.0,Saudável
+1311,Eduardo Moura,92,Feminino,Moraes de Minas,CE,117.5,1.96,30.6,140/90,,,Saudável
+1312,Dr. José Miguel Rios,49,m,Sales Alegre,RR,"54,7",1.83,16.3,,,,Saudável
+1313,Davi Lucas Casa Grande,7,M,DA PAZ DA PRATA,PR,113.6,1.74,37.5,13x8,165.0,193.0,Obesidade
+1314,Dra. Mirella da Rocha,67,M,da Mata do Oeste,AL,96.6,1.63,36.4,,,,Saudável
+1315,Rafaela Duarte,56,F,Nunes de Pastor,RS,36.8,1.55,15.3,110/70,158.0,261.0,Hipertensão
+1316,Maria Júlia Ribeiro,12,m,Pires,AP,125.5,1.74,41.5,140/90,163.0,136.0,Diabetes
+1317,Arthur Miguel Jesus,85,Masculino,Lima da Mata,ES,124.9,1.77,39.9,12x8,,255.0,Diabetes
+1318,Dr. Kaique Cavalcante,70,f,Carvalho de Guerra,RS,94.6,1.4,48.3,13x8,107.0,,
+1319,Diogo Andrade,75,F,Azevedo,SP,101.0,1.84,29.8,12x8,,,Saudável
+1320,Dr. Henrique Gonçalves,43,m,Nogueira Grande,ES,84.5,1.56,34.7,140/90,186.0,230.0,
+1321,Dr. Marcelo Melo,52,M,Ramos do Campo,MA,56.5,1.67,20.3,,78.0,,
+1322,Sr. Joaquim Pastor,12,M,da Mata,MA,61.9,2.0,15.5,110/70,,,Diabetes
+1323,Enrico Aparecida,11,m,Vieira,MT,118.1,1.75,38.6,,121.0,,Pré-diabetes
+1324,Dante Nascimento,62,F,Rodrigues,PE,118.6,1.98,30.3,120/80,82.0,,Hipertensão
+1325,Miguel Jesus,57,Masculino,Costa,MA,108.1,1.42,53.6,120/80,220.0,,Diabetes
+1326,Pedro Casa Grande,93,F,da Costa,GO,55.6,1.54,23.4,13x8,,,Diabetes
+1327,Luigi Nascimento,92,F,Campos,RJ,"73,5",1.89,20.6,140/90,,159.0,Diabetes
+1328,Sra. Vitória Sales,68,F,Alves,PI,106.9,1.98,27.3,120/80,81.0,174.0,Diabetes
+1329,Alexia Rodrigues,21,m,Souza das Flores,PE,109.9,1.86,31.8,,,235.0,Pré-diabetes
+1330,Kaique Almeida,54,F,Gomes Verde,DF,99.1,1.92,26.9,140/90,,275.0,
+1331,Gael Cavalcanti,37,f,Freitas,RS,116.1,1.7,40.2,120/80,208.0,297.0,Hipertensão
+1332,Yan Martins,14,Masculino,da Conceição,CE,85.3,1.99,21.5,12x8,242.0,133.0,Pré-diabetes
+1333,Dra. Juliana Cavalcanti,6,Masculino,Rios,AP,125.1,1.75,40.8,120/80,121.0,206.0,Obesidade
+1334,Sra. Camila Sampaio,5,f,Melo,ES,86.5,1.94,23.0,13x8,116.0,252.0,Pré-diabetes
+1335,Brayan Freitas,10,Feminino,Nogueira,SE,114.8,1.7,39.7,,,127.0,Hipertensão
+1336,Liam Nascimento,92,M,Nunes,CE,43.8,1.51,19.2,,223.0,141.0,Saudável
+1337,Julia Jesus,68,Feminino,Albuquerque de Almeida,RN,74.0,1.91,20.3,,214.0,304.0,Obesidade
+1338,Ana Rocha,64,Feminino,Almeida da Serra,RN,65.4,1.59,25.9,13x8,81.0,,Obesidade
+1339,Manuella Sousa,,m,CARVALHO,BA,87.6,1.91,24.0,140/90,,,Saudável
+1340,Stephany Sampaio,33,F,Santos,PB,74.7,1.81,22.8,120/80,,255.0,Saudável
+1341,Luan Sousa,34,Masculino,Souza,SE,58.9,1.61,22.7,,,199.0,Pré-diabetes
+1342,Pietra Abreu,80,f,Fogaça,MT,40.6,1.54,17.1,110/70,,,Hipertensão
+1343,Srta. Ana Luiza Nunes,67,F,Azevedo das Pedras,ES,48.2,1.44,23.2,120/80,,184.0,Pré-diabetes
+1344,Olívia Viana,93,m,Siqueira de Duarte,CE,136.0,1.82,41.1,12x8,,183.0,Saudável
+1345,Sophie Pereira,51,m,Pires da Serra,PE,60.4,1.84,17.8,13x8,,,
+1346,Josué Vargas,93,m,Aparecida de Lima,SE,77.8,1.5,34.6,13x8,167.0,,Diabetes
+1347,Júlia Peixoto,59,M,Novais Paulista,PR,121.3,1.59,48.0,,159.0,,Obesidade
+1348,Henry Azevedo,29,Feminino,Mendonça do Oeste,MT,106.0,1.62,40.4,,,169.0,
+1349,Jade Lima,35,m,Rocha,RR,88.9,2.02,21.8,12x8,189.0,317.0,
+1350,Sra. Carolina Melo,66,F,Duarte de Minas,AM,122.2,1.58,49.0,,,276.0,
+1351,Sr. Caleb Leão,7,m,Carvalho,RN,60.1,2.0,15.0,13x8,150.0,,Pré-diabetes
+1352,Anthony Jesus,28,F,Lima,PI,119.6,1.46,56.1,,,,
+1353,Hadassa Pires,25,F,Monteiro do Oeste,RS,97.3,1.81,29.7,13x8,186.0,,
+1354,Maria Julia da Conceição,4,Feminino,da Rocha da Prata,MA,43.1,1.45,20.5,12x8,,,Saudável
+1355,Vitória Azevedo,70,Feminino,Campos do Norte,RS,125.7,1.98,32.1,120/80,107.0,126.0,Pré-diabetes
+1356,Isaac Camargo,16,Masculino,Fernandes,MA,90.0,1.41,45.3,,,,Obesidade
+1357,Luigi Rocha,92,f,da Rocha do Campo,SE,131.3,1.97,33.8,,,,Diabetes
+1358,Melina Lima,15,Masculino,Marques,PE,102.1,1.77,32.6,120/80,,177.0,Saudável
+1359,João Miguel Ribeiro,17,f,Peixoto,CE,55.4,1.93,14.9,13x8,115.0,138.0,Saudável
+1360,Sra. Gabriela Câmara,32,M,Sales do Norte,SP,108.0,1.96,28.1,140/90,,311.0,Obesidade
+1361,Maya Gonçalves,63,f,Lopes,TO,"80,0",2.03,19.4,,71.0,149.0,Saudável
+1362,Isaac Nascimento,24,M,Gonçalves,SE,89.6,1.53,38.3,110/70,161.0,315.0,Saudável
+1363,Catarina Fogaça,95,F,da Cruz,SP,45.5,1.51,20.0,13x8,,211.0,Saudável
+1364,Cauê Mendes,62,Feminino,Ramos do Campo,AP,124.0,1.68,43.9,12x8,224.0,279.0,Pré-diabetes
+1365,João Sales,14,F,Rios,DF,66.9,1.76,21.6,12x8,174.0,,Diabetes
+1366,Apollo Fogaça,67,F,CASTRO,AP,77.8,1.54,32.8,,155.0,133.0,
+1367,Sra. Maria Eduarda Castro,6,Masculino,da Conceição,SP,73.7,1.77,23.5,,,193.0,Hipertensão
+1368,Asafe Cavalcanti,21,f,Andrade do Galho,AM,114.4,1.86,33.1,12x8,,,
+1369,Carolina Jesus,76,Feminino,Cirino,RJ,111.6,1.84,33.0,110/70,,,Pré-diabetes
+1370,Ana Beatriz Gonçalves,42,Masculino,da Mata do Amparo,MT,45.8,1.41,23.0,12x8,139.0,164.0,Hipertensão
+1371,Dr. Vinícius Vargas,37,F,Pacheco de Cavalcanti,RJ,116.5,1.68,41.3,12x8,203.0,224.0,Pré-diabetes
+1372,Ana Beatriz Oliveira,53,M,Fernandes,AL,102.4,1.51,44.9,13x8,139.0,253.0,Obesidade
+1373,Cecília Oliveira,31,Masculino,Almeida,SE,49.5,1.98,12.6,120/80,132.0,,
+1374,Isabella Cavalcanti,78,f,Carvalho das Pedras,AM,70.8,1.76,22.9,13x8,,259.0,Saudável
+1375,Asafe Martins,73,f,Pimenta,SE,71.2,1.81,21.7,13x8,,229.0,
+1376,Esther Sá,67,m,Montenegro do Oeste,MT,95.0,2.04,22.8,120/80,124.0,,Saudável
+1377,Francisco Rocha,,Masculino,Moraes,PA,63.5,1.98,16.2,120/80,,312.0,Hipertensão
+1378,Dr. Nicolas Araújo,50,f,Fogaça do Galho,MS,41.6,1.44,20.1,110/70,188.0,139.0,
+1379,Maria Fernanda Cassiano,3,M,Barbosa,SC,134.3,1.64,49.9,120/80,,,
+1380,Laís Araújo,58,f,da Rosa,PR,116.2,1.96,30.2,12x8,,,
+1381,Srta. Amanda Montenegro,35,m,Novaes,PA,36.8,1.72,12.4,110/70,,220.0,Hipertensão
+1382,Daniel Aragão,51,f,Andrade de Novaes,RO,105.5,1.79,32.9,140/90,64.0,,
+1383,Dante Brito,6,F,Sales,BA,94.4,2.01,23.4,120/80,127.0,,Hipertensão
+1384,Paulo Vargas,11,F,Pires,SC,135.2,1.6,52.8,,103.0,,Hipertensão
+1385,Letícia Abreu,26,F,Novaes,TO,106.2,1.45,50.5,13x8,,148.0,Saudável
+1386,Daniela Monteiro,16,f,Mendes,BA,87.1,1.77,27.8,140/90,156.0,168.0,Saudável
+1387,Diego Cavalcante,33,Masculino,Rios do Oeste,AM,40.2,2.02,9.9,12x8,142.0,,Obesidade
+1388,Dom Lima,35,m,Câmara,MT,139.5,1.55,58.1,13x8,,,Saudável
+1389,Ana Liz Pimenta,94,f,da Rocha,PB,105.1,1.51,46.1,13x8,79.0,161.0,Saudável
+1390,Dra. Carolina Gonçalves,13,Feminino,Pires,RS,55.3,1.74,18.3,110/70,,,
+1391,Heloisa Borges,29,Masculino,Borges,MG,60.5,1.47,28.0,12x8,,224.0,Obesidade
+1392,Caio Duarte,2,f,Caldeira do Oeste,RS,117.5,1.78,37.1,,,223.0,Saudável
+1393,Dra. Rebeca Farias,63,F,Alves,PA,129.5,1.74,42.8,13x8,,315.0,Saudável
+1394,Lavínia Siqueira,23,F,Costela de Azevedo,MA,101.1,1.61,39.0,13x8,,,Hipertensão
+1395,Ryan Oliveira,13,Feminino,Fernandes,RR,62.8,1.77,20.0,,78.0,138.0,Obesidade
+1396,Fernanda Caldeira,5,Masculino,Gomes Verde,PA,97.0,1.9,26.9,140/90,,,Pré-diabetes
+1397,Milena Viana,4,m,Aparecida das Flores,SP,118.8,2.02,29.1,,246.0,,
+1398,Maria Helena Montenegro,37,Feminino,Cardoso do Galho,AC,48.6,1.97,12.5,140/90,248.0,285.0,Obesidade
+1399,Sr. João Gabriel Câmara,4,Feminino,Fogaça do Galho,SC,103.8,1.46,48.7,13x8,,,Saudável
+1400,Sr. Vitor Hugo Cunha,3,Masculino,Brito,ES,82.5,1.65,30.3,120/80,217.0,,Saudável
+1401,Dr. Breno Alves,79,Masculino,Câmara de da Rocha,RR,131.1,1.73,43.8,,99.0,201.0,Saudável
+1402,Sr. Gael Vargas,40,Feminino,Casa Grande do Oeste,RR,"90,1",1.66,32.7,13x8,234.0,214.0,
+1403,João Miguel Siqueira,46,f,da Mota,GO,75.0,1.8,23.1,,176.0,127.0,Diabetes
+1404,Anthony Gabriel Moreira,43,m,Farias,SE,63.2,1.52,27.4,12x8,,,Diabetes
+1405,Sr. Antony Cirino,23,Feminino,Pimenta,PA,60.9,2.02,14.9,,,220.0,Diabetes
+1406,Enrico Rocha,13,m,Vasconcelos da Praia,BA,77.5,1.57,31.4,,,,
+1407,Thiago Camargo,43,f,Rezende de Minas,RS,52.6,1.77,16.8,110/70,210.0,297.0,Obesidade
+1408,Leonardo Guerra,28,Masculino,Nogueira,RN,46.2,1.86,13.4,140/90,153.0,,Pré-diabetes
+1409,Dra. Anna Liz Cassiano,41,M,Monteiro de Pimenta,PE,99.0,1.89,27.7,,,177.0,Diabetes
+1410,Carlos Eduardo Macedo,65,Masculino,Silveira do Oeste,SC,42.8,1.94,11.4,110/70,,162.0,Diabetes
+1411,Srta. Luara Castro,34,M,Fernandes de Cirino,PB,44.0,1.64,16.4,110/70,138.0,,Saudável
+1412,Ravi Lucca Rocha,27,Feminino,Campos,RO,53.2,1.8,16.4,13x8,,306.0,Diabetes
+1413,Lucca Cavalcanti,2,Masculino,Rios do Oeste,MG,62.9,1.95,16.5,,224.0,192.0,Hipertensão
+1414,Zoe Correia,67,M,Pereira de Ferreira,PR,108.1,1.74,35.7,12x8,75.0,,Hipertensão
+1415,Davi Miguel Pacheco,67,Masculino,Vieira,GO,124.9,1.63,47.0,13x8,,,Saudável
+1416,Gael Albuquerque,64,f,da Cruz Grande,MT,118.2,1.69,41.4,110/70,,162.0,Saudável
+1417,Dra. Carolina Vieira,85,m,da Cruz,MT,91.8,1.62,35.0,12x8,,,Diabetes
+1418,Sr. Miguel Pinto,15,M,Rocha,PA,120.3,1.68,42.6,140/90,66.0,121.0,Hipertensão
+1419,Bento Aparecida,75,Feminino,Ferreira de Cunha,RR,127.2,1.45,60.5,13x8,93.0,,Hipertensão
+1420,Dra. Ana Júlia Vasconcelos,66,F,Silveira,AC,101.5,1.68,36.0,,106.0,,Obesidade
+1421,Maya Câmara,75,Masculino,Campos Paulista,SP,139.5,1.72,47.2,110/70,236.0,,
+1422,Luiz Felipe Novais,52,F,Siqueira,CE,113.4,1.48,51.8,12x8,249.0,,Diabetes
+1423,Aurora Pimenta,22,Feminino,Souza,RS,92.1,1.93,24.7,,94.0,136.0,Diabetes
+1424,Luísa Montenegro,80,m,Duarte,SP,100.5,1.44,48.5,,62.0,253.0,Saudável
+1425,Liz da Conceição,59,m,Moreira,SC,37.5,1.51,16.4,110/70,163.0,,Diabetes
+1426,Dr. Pedro Lucas Pereira,41,m,Caldeira de da Cunha,RS,113.4,1.64,42.2,,,,Diabetes
+1427,Sr. Benjamim da Luz,79,M,Marques de Goiás,BA,88.6,1.9,24.5,,,217.0,
+1428,Dra. Ana Cecília das Neves,91,f,Fogaça do Sul,MS,135.8,1.82,41.0,13x8,,295.0,Diabetes
+1429,Bella Câmara,72,Feminino,Mendonça,SC,96.2,1.52,41.6,120/80,143.0,164.0,Pré-diabetes
+1430,Sr. Luiz Henrique Abreu,52,F,Ferreira,RO,135.3,1.88,38.3,140/90,228.0,,Diabetes
+1431,Igor Rocha,41,Feminino,Lima,PR,73.2,2.03,17.8,12x8,198.0,,Obesidade
+1432,João Guilherme Rocha,94,Feminino,Guerra,MT,127.7,1.54,53.8,110/70,134.0,,Obesidade
+1433,Brayan Oliveira,63,Masculino,da Paz da Mata,ES,110.1,1.48,50.3,110/70,,120.0,Pré-diabetes
+1434,Henry Gabriel Castro,31,Feminino,Pacheco,AC,129.6,1.7,44.8,12x8,187.0,,
+1435,Dr. Benjamim Câmara,71,Masculino,Cardoso de Costa,PI,60.5,1.5,26.9,,85.0,,
+1436,Valentim da Conceição,22,M,Freitas das Flores,PR,127.8,1.57,51.8,12x8,,,Obesidade
+1437,Ana Sophia Cavalcante,,Feminino,da Conceição,RN,89.0,1.52,38.5,,,135.0,Diabetes
+1438,Sophie Lima,49,Feminino,da Mota Verde,DF,43.6,1.77,13.9,12x8,142.0,237.0,Obesidade
+1439,Isabella Novaes,,Masculino,Almeida de Cardoso,RR,129.3,1.96,33.7,120/80,98.0,,
+1440,Clara Fonseca,83,Feminino,Pires,SP,88.7,1.44,42.8,13x8,,240.0,Diabetes
+1441,Raquel Andrade,14,F,Campos de Minas,AP,76.8,1.81,23.4,,98.0,173.0,Hipertensão
+1442,Dom Pinto,52,f,Casa Grande,MT,114.0,1.49,51.3,120/80,215.0,149.0,Saudável
+1443,João Felipe Macedo,15,Masculino,Martins de da Cruz,DF,110.8,1.69,38.8,,,183.0,Pré-diabetes
+1444,Paulo Montenegro,24,f,da Cunha de Minas,MS,74.9,1.54,31.6,120/80,229.0,,Pré-diabetes
+1445,Eduardo Alves,12,M,Nunes Paulista,RO,64.9,1.91,17.8,,161.0,206.0,Pré-diabetes
+1446,Ana Sophia da Costa,36,f,VASCONCELOS,RR,48.5,1.95,12.8,12x8,,,Hipertensão
+1447,Maitê Freitas,27,Feminino,da Cunha,DF,105.0,1.79,32.8,13x8,,124.0,Diabetes
+1448,Maria Flor da Mata,54,m,Gonçalves,PI,92.7,1.75,30.3,110/70,138.0,174.0,Obesidade
+1449,Sra. Alana Jesus,3,F,Mendonça de da Rocha,RR,139.0,2.0,34.8,110/70,,277.0,Saudável
+1450,Igor Castro,76,Masculino,Cirino,MG,41.5,1.87,11.9,120/80,,271.0,Saudável
+1451,Beatriz Duarte,83,M,Mendes dos Dourados,AL,71.0,1.57,28.8,13x8,235.0,,Hipertensão
+1452,Yuri Gonçalves,51,f,Correia de Câmara,RR,94.3,1.9,26.1,110/70,,198.0,Obesidade
+1453,Joana Leão,47,m,Rezende,PE,"79,6",1.51,34.9,13x8,,147.0,Obesidade
+1454,José Ramos,7,M,Teixeira,DF,118.7,1.73,39.7,120/80,113.0,,Pré-diabetes
+1455,Dr. Gustavo Gomes,11,f,Cunha da Praia,MA,52.0,1.74,17.2,12x8,63.0,,Saudável
+1456,Lívia Albuquerque,13,m,Lopes,TO,109.0,1.7,37.7,13x8,190.0,,Hipertensão
+1457,Matteo da Cunha,10,M,Cavalcanti,PR,120.4,1.59,47.6,12x8,,196.0,Saudável
+1458,Arthur Miguel Camargo,72,f,Pereira,PI,54.1,1.75,17.7,12x8,,,
+1459,Henrique da Rocha,15,Masculino,Lima de Moraes,AP,35.6,1.53,15.2,,,,Obesidade
+1460,Dr. João Gabriel Albuquerque,19,M,Vasconcelos de Goiás,AL,72.1,1.44,34.8,13x8,,124.0,Hipertensão
+1461,Beatriz Rodrigues,39,m,Andrade,MA,100.8,1.42,50.0,120/80,89.0,,
+1462,Otto Teixeira,95,Feminino,Silva das Pedras,ES,62.6,1.55,26.1,12x8,,266.0,Obesidade
+1463,Augusto Rezende,22,M,Rocha da Prata,RJ,61.8,1.8,19.1,120/80,,,Saudável
+1464,Isabel Gomes,28,Feminino,Andrade de Mendonça,PA,41.8,1.7,14.5,110/70,235.0,,Pré-diabetes
+1465,Kamilly Moreira,48,M,Teixeira,RS,50.6,1.72,17.1,120/80,,,Diabetes
+1466,Bárbara Duarte,23,F,da Paz,AC,"112,4",2.03,27.3,,,269.0,Pré-diabetes
+1467,Nathan da Rosa,33,F,Mendonça dos Dourados,MS,127.8,1.95,33.6,,95.0,,Hipertensão
+1468,Isadora Cavalcante,21,M,da Conceição,BA,44.3,1.44,21.4,13x8,229.0,,Hipertensão
+1469,Nina Rezende,10,F,Sá,MT,73.8,1.86,21.3,12x8,,157.0,Hipertensão
+1470,Raul Sampaio,68,Masculino,Caldeira de Minas,SE,100.7,2.03,24.4,,190.0,,Obesidade
+1471,Cecilia Farias,57,m,Barbosa de Goiás,MT,89.8,1.88,25.4,13x8,,,Saudável
+1472,Dra. Letícia Azevedo,3,m,Pereira,ES,91.7,1.67,32.9,140/90,181.0,166.0,Saudável
+1473,Isadora Sampaio,82,Feminino,Fernandes de Andrade,RS,43.8,1.5,19.5,110/70,,,Pré-diabetes
+1474,Ana Carolina Ramos,50,Masculino,Araújo do Galho,CE,134.0,1.84,39.6,110/70,230.0,188.0,Pré-diabetes
+1475,Sra. Laura Pinto,11,Masculino,Lopes Alegre,PA,79.5,1.63,29.9,120/80,186.0,,Obesidade
+1476,Renan da Rocha,28,m,Freitas,RR,110.9,1.63,41.7,110/70,,,
+1477,Anna Liz da Mota,81,m,Vieira,MA,122.7,1.64,45.6,12x8,,,Hipertensão
+1478,Luigi Vargas,56,M,Porto,AL,51.1,1.62,19.5,110/70,96.0,211.0,
+1479,João Pedro Araújo,64,Masculino,Monteiro do Amparo,SE,135.8,1.91,37.2,140/90,,256.0,Pré-diabetes
+1480,Gabrielly Carvalho,50,f,Costa,PB,50.9,2.04,12.2,12x8,173.0,228.0,Pré-diabetes
+1481,Bruna Abreu,14,Masculino,Rocha de Costela,AC,129.1,2.05,30.7,13x8,151.0,,Hipertensão
+1482,Srta. Maria Clara Fernandes,,m,Cunha,RS,54.6,1.56,22.4,140/90,142.0,,
+1483,Ana Clara Cavalcante,35,m,Caldeira de Goiás,TO,87.0,1.57,35.3,12x8,,201.0,Diabetes
+1484,Gael Fogaça,53,f,Vasconcelos do Campo,PI,123.7,1.71,42.3,,183.0,317.0,
+1485,Heitor Porto,80,M,da Costa Alegre,ES,92.4,2.02,22.6,,,238.0,Hipertensão
+1486,Srta. Clarice Montenegro,13,F,Rodrigues,PB,123.2,1.8,38.0,110/70,,,Pré-diabetes
+1487,Ravy Peixoto,89,Masculino,Santos das Flores,SP,76.6,1.8,23.6,110/70,,,
+1488,Arthur Camargo,33,m,Cardoso,AL,119.4,1.43,58.4,120/80,217.0,304.0,Hipertensão
+1489,Bruna Casa Grande,31,Feminino,Câmara,AC,132.5,1.98,33.8,120/80,149.0,,Hipertensão
+1490,Melissa da Paz,76,Masculino,da Conceição Paulista,RS,114.0,1.76,36.8,110/70,,200.0,Saudável
+1491,Asafe Borges,74,m,Abreu de Goiás,MS,69.4,1.79,21.7,110/70,184.0,132.0,Pré-diabetes
+1492,João Felipe Barros,38,Masculino,Marques de Alves,RO,137.0,1.56,56.3,120/80,,,
+1493,Sr. Davi Lucas Cardoso,52,M,Viana,MG,69.3,1.68,24.6,13x8,,,Obesidade
+1494,José Miguel da Luz,3,Masculino,Vargas,AC,82.3,2.02,20.2,140/90,116.0,320.0,Saudável
+1495,Srta. Lívia Moraes,51,f,Fogaça do Sul,RR,117.2,1.96,30.5,13x8,,,Hipertensão
+1496,Sr. Kaique da Mata,44,F,Albuquerque do Oeste,CE,132.2,1.41,66.5,,168.0,167.0,Diabetes
+1497,Luísa Carvalho,57,f,das Neves,AC,136.3,1.71,46.6,,,222.0,Obesidade
+1498,Júlia Albuquerque,,m,da Conceição do Galho,SP,109.5,1.46,51.4,140/90,,,Hipertensão
+1499,Srta. Eloá Ribeiro,13,f,Pires do Norte,SP,96.8,2.04,23.3,110/70,,263.0,Diabetes
+1500,Ana Laura Câmara,45,f,Sampaio Alegre,AP,132.7,1.98,33.8,140/90,174.0,,Obesidade
